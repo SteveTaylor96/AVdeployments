@@ -1,7 +1,7 @@
 {
 "Deployments":  [
   {
-    "UID": 341,
+    “UID”: 0341,
     "ProjectName": "2getthere Shuttle",
     "Sentient": false,
     "Fictional": false,
@@ -17,7 +17,7 @@
     "PublicLink": "https://2getthere.eu/projects"
   },
   {
-    "UID": 361,
+    “UID”: 0361,
     "ProjectName": "7StarLake Autonomous Services",
     "Sentient": false,
     "Fictional": false,
@@ -33,7 +33,7 @@
     "PublicLink": "https://www.7starlake.com/en/news"
   },
   {
-    "UID": 381,
+    “UID”: 0381,
     "ProjectName": "ABD Solutions Retrofitting",
     "Sentient": false,
     "Fictional": false,
@@ -49,7 +49,7 @@
     "PublicLink": "https://abdsolutions.com/news"
   },
   {
-    "UID": 401,
+    “UID”: 0401,
     "ProjectName": "AgXeed Autonomous Tractors",
     "Sentient": false,
     "Fictional": false,
@@ -65,7 +65,7 @@
     "PublicLink": "https://www.agxeed.com/news"
   },
   {
-    "UID": 421,
+    “UID”: 0421,
     "ProjectName": "AImotive Autonomous Trials",
     "Sentient": false,
     "Fictional": false,
@@ -81,7 +81,7 @@
     "PublicLink": "https://aimotive.com/news"
   },
   {
-    "UID": 441,
+    “UID”: 0441,
     "ProjectName": "Al-Jazari Automata (~1200)",
     "Sentient": false,
     "Fictional": false,
@@ -97,7 +97,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Ismail_al-Jazari"
   },
   {
-    "UID": 461,
+    “UID”: 0461,
     "ProjectName": "Amazon Scout Delivery Robots",
     "Sentient": false,
     "Fictional": false,
@@ -113,7 +113,7 @@
     "PublicLink": "https://www.amazon.com/b?node=20536087011"
   },
   {
-    "UID": 481,
+    “UID”: 0481,
     "ProjectName": "Argo AI Legacy Projects",
     "Sentient": false,
     "Fictional": false,
@@ -129,7 +129,7 @@
     "PublicLink": "https://www.ford.com/news; https://www.volkswagen-newsroom.com"
   },
   {
-    "UID": 501,
+    “UID”: 0501,
     "ProjectName": "Aurora Autonomous Trucking",
     "Sentient": false,
     "Fictional": false,
@@ -145,7 +145,7 @@
     "PublicLink": "https://aurora.tech/news"
   },
   {
-    "UID": 521,
+    “UID”: 0521,
     "ProjectName": "Aurrigo Auto-Pod",
     "Sentient": false,
     "Fictional": false,
@@ -161,7 +161,7 @@
     "PublicLink": "https://aurrigo.com/news"
   },
   {
-    "UID": 541,
+    “UID”: 0541,
     "ProjectName": "Aurrigo Autonomous Baggage Dolly",
     "Sentient": false,
     "Fictional": false,
@@ -177,7 +177,7 @@
     "PublicLink": "https://www.aviationpros.com/gse/baggage-cargo/baggage-handling-equipment-accessories/press-release/21086574/aurrigo-aurrigo-delivers-autonomous-baggage-solution-for-heathrow"
   },
   {
-    "UID": 561,
+    “UID”: 0561,
     "ProjectName": "AutoCore.ai Autonomous Shuttles",
     "Sentient": false,
     "Fictional": false,
@@ -193,7 +193,7 @@
     "PublicLink": "https://www.autocore.ai/news"
   },
   {
-    "UID": 581,
+    “UID”: 0581,
     "ProjectName": "AutoCore.ai Logistics Pods",
     "Sentient": false,
     "Fictional": false,
@@ -209,7 +209,7 @@
     "PublicLink": "https://www.autocore.ai/news"
   },
   {
-    "UID": 601,
+    “UID”: 0601,
     "ProjectName": "Automated Carriage (H.G. Wells)",
     "Sentient": false,
     "Fictional": true,
@@ -225,7 +225,7 @@
     "PublicLink": "https://www.gutenberg.org/ebooks/1216"
   },
   {
-    "UID": 621,
+    “UID”: 0621,
     "ProjectName": "AutoX Robotaxi Service",
     "Sentient": false,
     "Fictional": false,
@@ -241,7 +241,7 @@
     "PublicLink": "https://www.autox.ai/en/news.html"
   },
   {
-    "UID": 641,
+    “UID”: 0641,
     "ProjectName": "Auve Tech IseAuto, MiCa",
     "Sentient": false,
     "Fictional": false,
@@ -257,7 +257,7 @@
     "PublicLink": "https://auvetec.ee/news"
   },
   {
-    "UID": 661,
+    “UID”: 0661,
     "ProjectName": "AVENUE",
     "Sentient": false,
     "Fictional": false,
@@ -273,7 +273,7 @@
     "PublicLink": "https://cordis.europa.eu/project/id/769033"
   },
   {
-    "UID": 681,
+    “UID”: 0681,
     "ProjectName": "Axiom starliner vehicles",
     "Sentient": false,
     "Fictional": true,
@@ -289,7 +289,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0910970/"
   },
   {
-    "UID": 701,
+    “UID”: 0701,
     "ProjectName": "Back to the Future DeLorean",
     "Sentient": true,
     "Fictional": true,
@@ -305,7 +305,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0096874/"
   },
   {
-    "UID": 721,
+    “UID”: 0721,
     "ProjectName": "Baidu Apollo Go Robotaxi Services",
     "Sentient": false,
     "Fictional": false,
@@ -321,7 +321,7 @@
     "PublicLink": "https://apollo.auto/en/news"
   },
   {
-    "UID": 741,
+    “UID”: 0741,
     "ProjectName": "Baidu Apollo RT6 Robotaxi",
     "Sentient": false,
     "Fictional": false,
@@ -337,7 +337,7 @@
     "PublicLink": "https://apollo.auto/en/news"
   },
   {
-    "UID": 761,
+    “UID”: 0761,
     "ProjectName": "Baidu Apollo Shuttle Trial",
     "Sentient": false,
     "Fictional": false,
@@ -353,7 +353,7 @@
     "PublicLink": "https://apollo.auto/en/news"
   },
   {
-    "UID": 781,
+    “UID”: 0781,
     "ProjectName": "Batmobile",
     "Sentient": true,
     "Fictional": true,
@@ -369,7 +369,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0468569/"
   },
   {
-    "UID": 801,
+    “UID”: 0801,
     "ProjectName": "Beep Autonomous Shuttles",
     "Sentient": false,
     "Fictional": false,
@@ -385,7 +385,7 @@
     "PublicLink": "https://ridebeep.com/news"
   },
   {
-    "UID": 821,
+    “UID”: 0821,
     "ProjectName": "Blade Runner AVs",
     "Sentient": true,
     "Fictional": true,
@@ -401,7 +401,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Blade_Runner"
   },
   {
-    "UID": 841,
+    “UID”: 0841,
     "ProjectName": "Blue Origin Autonomous Logistics",
     "Sentient": false,
     "Fictional": false,
@@ -417,7 +417,7 @@
     "PublicLink": "https://www.blueorigin.com/news"
   },
   {
-    "UID": 861,
+    “UID”: 0861,
     "ProjectName": "BlueCruise (Ford)",
     "Sentient": false,
     "Fictional": false,
@@ -433,7 +433,7 @@
     "PublicLink": "https://www.ford.com/technology/bluecruise"
   },
   {
-    "UID": 881,
+    “UID”: 0881,
     "ProjectName": "BlueSpace.ai Blue Cruise",
     "Sentient": false,
     "Fictional": false,
@@ -449,7 +449,7 @@
     "PublicLink": "https://www.bluespace.ai/news"
   },
   {
-    "UID": 901,
+    “UID”: 0901,
     "ProjectName": "BMW / Mobileye Urban AV Trials",
     "Sentient": false,
     "Fictional": false,
@@ -465,7 +465,7 @@
     "PublicLink": "https://www.mobileye.com/news/bmw-mobileye-announcement"
   },
   {
-    "UID": 921,
+    “UID”: 0921,
     "ProjectName": "Bob the Builder Construction Vehicles",
     "Sentient": true,
     "Fictional": true,
@@ -481,7 +481,7 @@
     "PublicLink": "https://bobthebuilder.fandom.com/wiki/Scoop"
   },
   {
-    "UID": 941,
+    “UID”: 0941,
     "ProjectName": "BOLDLY Mica Shuttle",
     "Sentient": false,
     "Fictional": false,
@@ -497,7 +497,7 @@
     "PublicLink": "https://boldly.global/en/news"
   },
   {
-    "UID": 961,
+    “UID”: 0961,
     "ProjectName": "Canoo (Evelozcity)",
     "Sentient": false,
     "Fictional": false,
@@ -513,7 +513,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Canoo"
   },
   {
-    "UID": 981,
+    “UID”: 0981,
     "ProjectName": "CARMA Platform Deployments",
     "Sentient": false,
     "Fictional": false,
