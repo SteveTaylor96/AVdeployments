@@ -15,7 +15,7 @@
     "Status": "Ongoing since 1997, deployed in six cities/airports",
     "Source": "Grok",
     "PublicLink": "https://2getthere.eu/projects"
-  },
+  }
   {
     "UID": 361,
     "ProjectName": "7StarLake Autonomous Services",
@@ -31,7 +31,7 @@
     "Status": "Bus trials ongoing since 2017; vending machine trial completed 2019",
     "Source": "Grok",
     "PublicLink": "https://www.7starlake.com/en/news"
-  },
+  }
   {
     "UID": 381,
     "ProjectName": "ABD Solutions Retrofitting",
@@ -3093,277 +3093,277 @@
   {
     "LocationID": 101,
     "Location": "Argentina",
-    "Region": "Americas",
+    "Region": "Americas"
   }
   {
     "LocationID": 104,
     "Location": "Australia",
-    "Region": "Oceania",
+    "Region": "Oceania"
   }
   {
     "LocationID": 107,
     "Location": "Austria",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 110,
     "Location": "Belgium",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 113,
     "Location": "Brazil",
-    "Region": "Americas",
+    "Region": "Americas"
   }
   {
     "LocationID": 116,
     "Location": "Canada",
-    "Region": "Americas",
+    "Region": "Americas"
   }
   {
     "LocationID": 119,
     "Location": "Chile",
-    "Region": "Americas",
+    "Region": "Americas"
   }
   {
     "LocationID": 122,
     "Location": "China",
-    "Region": "Asia",
+    "Region": "Asia"
   }
   {
     "LocationID": 125,
     "Location": "Croatia",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 128,
     "Location": "Cybertron",
-    "Region": "Space",
+    "Region": "Space"
   }
   {
     "LocationID": 131,
     "Location": "Czech Republic",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 134,
     "Location": "Denmark",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 137,
     "Location": "Earth",
-    "Region": "Space",
+    "Region": "Space"
   }
   {
     "LocationID": 140,
     "Location": "Estonia",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 143,
     "Location": "Finland",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 146,
     "Location": "France",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 149,
     "Location": "Germany",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 152,
     "Location": "Ghana",
-    "Region": "Africa",
+    "Region": "Africa"
   }
   {
     "LocationID": 155,
     "Location": "Greece",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 158,
     "Location": "Hong Kong",
-    "Region": "Asia",
+    "Region": "Asia"
   }
   {
     "LocationID": 161,
     "Location": "Hungary",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 164,
     "Location": "India",
-    "Region": "Asia",
+    "Region": "Asia"
   }
   {
     "LocationID": 167,
     "Location": "Indonesia",
-    "Region": "Asia",
+    "Region": "Asia"
   }
   {
     "LocationID": 170,
     "Location": "Iraq",
-    "Region": "Middle East",
+    "Region": "Middle East"
   }
   {
     "LocationID": 173,
     "Location": "Israel",
-    "Region": "Middle East",
+    "Region": "Middle East"
   }
   {
     "LocationID": 176,
     "Location": "Italy",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 179,
     "Location": "Japan",
-    "Region": "Asia",
+    "Region": "Asia"
   }
   {
     "LocationID": 182,
     "Location": "Luxembourg",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 185,
     "Location": "Malaysia",
-    "Region": "Asia",
+    "Region": "Asia"
   }
   {
     "LocationID": 188,
     "Location": "Mexico",
-    "Region": "Americas",
+    "Region": "Americas"
   }
   {
     "LocationID": 191,
     "Location": "Morocco",
-    "Region": "Africa",
+    "Region": "Africa"
   }
   {
     "LocationID": 194,
     "Location": "Netherlands",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 197,
     "Location": "New Zealand",
-    "Region": "Oceania",
+    "Region": "Oceania"
   }
   {
     "LocationID": 200,
     "Location": "Nigeria",
-    "Region": "Africa",
+    "Region": "Africa"
   }
   {
     "LocationID": 203,
     "Location": "Norway",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 206,
     "Location": "Portugal",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 209,
     "Location": "Puerto Rico",
-    "Region": "Americas",
+    "Region": "Americas"
   }
   {
     "LocationID": 212,
     "Location": "Qatar",
-    "Region": "Middle East",
+    "Region": "Middle East"
   }
   {
     "LocationID": 215,
     "Location": "Romania",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 218,
     "Location": "Russia",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 221,
     "Location": "Rwanda",
-    "Region": "Africa",
+    "Region": "Africa"
   }
   {
     "LocationID": 224,
     "Location": "Saudi Arabia",
-    "Region": "Middle East",
+    "Region": "Middle East"
   }
   {
     "LocationID": 227,
     "Location": "Singapore",
-    "Region": "Asia",
+    "Region": "Asia"
   }
   {
     "LocationID": 230,
     "Location": "South Africa",
-    "Region": "Africa",
+    "Region": "Africa"
   }
   {
     "LocationID": 233,
     "Location": "South Korea",
-    "Region": "Asia",
+    "Region": "Asia"
   }
   {
     "LocationID": 236,
     "Location": "Space",
-    "Region": "Space",
+    "Region": "Space"
   }
   {
     "LocationID": 239,
     "Location": "Spain",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 242,
     "Location": "Sweden",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 245,
     "Location": "Switzerland",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 248,
     "Location": "Taiwan",
-    "Region": "Asia",
+    "Region": "Asia"
   }
   {
     "LocationID": 251,
     "Location": "Turkey",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 254,
     "Location": "UAE",
-    "Region": "Middle East",
+    "Region": "Middle East"
   }
   {
     "LocationID": 257,
     "Location": "UK",
-    "Region": "Europe",
+    "Region": "Europe"
   }
   {
     "LocationID": 260,
     "Location": "USA",
-    "Region": "Americas",
+    "Region": "Americas"
   }
   {
     "LocationID": 263,
     "Location": "Vietnam",
-    "Region": "Asia",
+    "Region": "Asia"
   }
   {
     "LocationID": 266,
@@ -3374,27 +3374,27 @@
 "Vehicles":  [
   {
     "UID": 11,
-    "Type": "Bus",
+    "Type": "Bus"
   }
   {
     "UID": 21,
-    "Type": "Car",
+    "Type": "Car"
   }
   {
     "UID": 31,
-    "Type": "Robotaxi",
+    "Type": "Robotaxi"
   }
   {
     "UID": 41,
-    "Type": "Special",
+    "Type": "Special"
   }
   {
     "UID": 51,
-    "Type": "Truck",
+    "Type": "Truck"
   }
   {
     "UID": 61,
     "Type": "Van"
   }
-]
+],
 }
