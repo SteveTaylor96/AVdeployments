@@ -1500,7 +1500,7 @@
     "Capacity": "",
     "AutonomySW": "Kodiak (proprietary)",
     "OEM_Partners": "Kodiak Robotics, Ryder, Pilot Travel Centers",
-    "Status": "Commercial pilot with safety drivers since 2024; driver_forest",
+    "Status": "Commercial pilot with safety drivers since 2024",
     "Source": "Grok",
     "PublicLink": "https://kodiak.ai/news"
   },
@@ -1511,7 +1511,7 @@
     "Fictional": false,
     "StartYR": 2016,
     "EndYR": 2022,
-    "LocationIDs": [260, 104, 176, 224149, 134, 116 ],
+    "LocationIDs": [260, 104, 176, 224, 149, 134, 116 ],
     "Type": [11],
     "Capacity": "",
     "AutonomySW": "Local Motors/partners",
@@ -3396,5 +3396,5 @@
     "UID": 61,
     "Type": "Van"
   }
-],
+]
 }
