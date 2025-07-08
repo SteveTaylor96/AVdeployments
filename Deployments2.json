@@ -1,7 +1,7 @@
 {
 "Deployments":  [
   {
-    “UID”: 0341,
+    "UID": 103,
     "ProjectName": "2getthere Shuttle",
     "Sentient": false,
     "Fictional": false,
@@ -17,7 +17,7 @@
     "PublicLink": "https://2getthere.eu/projects"
   },
   {
-    “UID”: 0361,
+    "UID": 106,
     "ProjectName": "7StarLake Autonomous Services",
     "Sentient": false,
     "Fictional": false,
@@ -33,7 +33,7 @@
     "PublicLink": "https://www.7starlake.com/en/news"
   },
   {
-    “UID”: 0381,
+    "UID": 109,
     "ProjectName": "ABD Solutions Retrofitting",
     "Sentient": false,
     "Fictional": false,
@@ -49,7 +49,7 @@
     "PublicLink": "https://abdsolutions.com/news"
   },
   {
-    “UID”: 0401,
+    "UID": 112,
     "ProjectName": "AgXeed Autonomous Tractors",
     "Sentient": false,
     "Fictional": false,
@@ -65,7 +65,7 @@
     "PublicLink": "https://www.agxeed.com/news"
   },
   {
-    “UID”: 0421,
+    "UID": 115,
     "ProjectName": "AImotive Autonomous Trials",
     "Sentient": false,
     "Fictional": false,
@@ -81,7 +81,7 @@
     "PublicLink": "https://aimotive.com/news"
   },
   {
-    “UID”: 0441,
+    "UID": 118,
     "ProjectName": "Al-Jazari Automata (~1200)",
     "Sentient": false,
     "Fictional": false,
@@ -97,7 +97,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Ismail_al-Jazari"
   },
   {
-    “UID”: 0461,
+    "UID": 121,
     "ProjectName": "Amazon Scout Delivery Robots",
     "Sentient": false,
     "Fictional": false,
@@ -113,7 +113,7 @@
     "PublicLink": "https://www.amazon.com/b?node=20536087011"
   },
   {
-    “UID”: 0481,
+    "UID": 124,
     "ProjectName": "Argo AI Legacy Projects",
     "Sentient": false,
     "Fictional": false,
@@ -129,7 +129,7 @@
     "PublicLink": "https://www.ford.com/news; https://www.volkswagen-newsroom.com"
   },
   {
-    “UID”: 0501,
+    "UID": 127,
     "ProjectName": "Aurora Autonomous Trucking",
     "Sentient": false,
     "Fictional": false,
@@ -145,7 +145,7 @@
     "PublicLink": "https://aurora.tech/news"
   },
   {
-    “UID”: 0521,
+    "UID": 130,
     "ProjectName": "Aurrigo Auto-Pod",
     "Sentient": false,
     "Fictional": false,
@@ -161,7 +161,7 @@
     "PublicLink": "https://aurrigo.com/news"
   },
   {
-    “UID”: 0541,
+    "UID": 133,
     "ProjectName": "Aurrigo Autonomous Baggage Dolly",
     "Sentient": false,
     "Fictional": false,
@@ -177,7 +177,7 @@
     "PublicLink": "https://www.aviationpros.com/gse/baggage-cargo/baggage-handling-equipment-accessories/press-release/21086574/aurrigo-aurrigo-delivers-autonomous-baggage-solution-for-heathrow"
   },
   {
-    “UID”: 0561,
+    "UID": 136,
     "ProjectName": "AutoCore.ai Autonomous Shuttles",
     "Sentient": false,
     "Fictional": false,
@@ -193,7 +193,7 @@
     "PublicLink": "https://www.autocore.ai/news"
   },
   {
-    “UID”: 0581,
+    "UID": 139,
     "ProjectName": "AutoCore.ai Logistics Pods",
     "Sentient": false,
     "Fictional": false,
@@ -209,7 +209,7 @@
     "PublicLink": "https://www.autocore.ai/news"
   },
   {
-    “UID”: 0601,
+    "UID": 142,
     "ProjectName": "Automated Carriage (H.G. Wells)",
     "Sentient": false,
     "Fictional": true,
@@ -225,7 +225,7 @@
     "PublicLink": "https://www.gutenberg.org/ebooks/1216"
   },
   {
-    “UID”: 0621,
+    "UID": 145,
     "ProjectName": "AutoX Robotaxi Service",
     "Sentient": false,
     "Fictional": false,
@@ -241,7 +241,7 @@
     "PublicLink": "https://www.autox.ai/en/news.html"
   },
   {
-    “UID”: 0641,
+    "UID": 148,
     "ProjectName": "Auve Tech IseAuto, MiCa",
     "Sentient": false,
     "Fictional": false,
@@ -257,7 +257,7 @@
     "PublicLink": "https://auvetec.ee/news"
   },
   {
-    “UID”: 0661,
+    "UID": 151,
     "ProjectName": "AVENUE",
     "Sentient": false,
     "Fictional": false,
@@ -273,7 +273,7 @@
     "PublicLink": "https://cordis.europa.eu/project/id/769033"
   },
   {
-    “UID”: 0681,
+    "UID": 154,
     "ProjectName": "Axiom starliner vehicles",
     "Sentient": false,
     "Fictional": true,
@@ -289,7 +289,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0910970/"
   },
   {
-    “UID”: 0701,
+    "UID": 157,
     "ProjectName": "Back to the Future DeLorean",
     "Sentient": true,
     "Fictional": true,
@@ -305,7 +305,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0096874/"
   },
   {
-    “UID”: 0721,
+    "UID": 160,
     "ProjectName": "Baidu Apollo Go Robotaxi Services",
     "Sentient": false,
     "Fictional": false,
@@ -321,7 +321,7 @@
     "PublicLink": "https://apollo.auto/en/news"
   },
   {
-    “UID”: 0741,
+    "UID": 163,
     "ProjectName": "Baidu Apollo RT6 Robotaxi",
     "Sentient": false,
     "Fictional": false,
@@ -337,7 +337,7 @@
     "PublicLink": "https://apollo.auto/en/news"
   },
   {
-    “UID”: 0761,
+    "UID": 166,
     "ProjectName": "Baidu Apollo Shuttle Trial",
     "Sentient": false,
     "Fictional": false,
@@ -353,7 +353,7 @@
     "PublicLink": "https://apollo.auto/en/news"
   },
   {
-    “UID”: 0781,
+    "UID": 169,
     "ProjectName": "Batmobile",
     "Sentient": true,
     "Fictional": true,
@@ -369,7 +369,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0468569/"
   },
   {
-    “UID”: 0801,
+    "UID": 172,
     "ProjectName": "Beep Autonomous Shuttles",
     "Sentient": false,
     "Fictional": false,
@@ -385,7 +385,7 @@
     "PublicLink": "https://ridebeep.com/news"
   },
   {
-    “UID”: 0821,
+    "UID": 175,
     "ProjectName": "Blade Runner AVs",
     "Sentient": true,
     "Fictional": true,
@@ -401,7 +401,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Blade_Runner"
   },
   {
-    “UID”: 0841,
+    "UID": 178,
     "ProjectName": "Blue Origin Autonomous Logistics",
     "Sentient": false,
     "Fictional": false,
@@ -417,7 +417,7 @@
     "PublicLink": "https://www.blueorigin.com/news"
   },
   {
-    “UID”: 0861,
+    "UID": 181,
     "ProjectName": "BlueCruise (Ford)",
     "Sentient": false,
     "Fictional": false,
@@ -433,7 +433,7 @@
     "PublicLink": "https://www.ford.com/technology/bluecruise"
   },
   {
-    “UID”: 0881,
+    "UID": 184,
     "ProjectName": "BlueSpace.ai Blue Cruise",
     "Sentient": false,
     "Fictional": false,
@@ -449,7 +449,7 @@
     "PublicLink": "https://www.bluespace.ai/news"
   },
   {
-    “UID”: 0901,
+    "UID": 187,
     "ProjectName": "BMW / Mobileye Urban AV Trials",
     "Sentient": false,
     "Fictional": false,
@@ -465,7 +465,7 @@
     "PublicLink": "https://www.mobileye.com/news/bmw-mobileye-announcement"
   },
   {
-    “UID”: 0921,
+    "UID": 190,
     "ProjectName": "Bob the Builder Construction Vehicles",
     "Sentient": true,
     "Fictional": true,
@@ -481,7 +481,7 @@
     "PublicLink": "https://bobthebuilder.fandom.com/wiki/Scoop"
   },
   {
-    “UID”: 0941,
+    "UID": 193,
     "ProjectName": "BOLDLY Mica Shuttle",
     "Sentient": false,
     "Fictional": false,
@@ -497,7 +497,7 @@
     "PublicLink": "https://boldly.global/en/news"
   },
   {
-    “UID”: 0961,
+    "UID": 196,
     "ProjectName": "Canoo (Evelozcity)",
     "Sentient": false,
     "Fictional": false,
@@ -513,7 +513,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Canoo"
   },
   {
-    “UID”: 0981,
+    "UID": 199,
     "ProjectName": "CARMA Platform Deployments",
     "Sentient": false,
     "Fictional": false,
@@ -529,7 +529,7 @@
     "PublicLink": "https://highways.dot.gov/turner-fairbank-highway-research-center"
   },
   {
-    "UID": 1001,
+    "UID": 202,
     "ProjectName": "Carnegie Mellon Navlab",
     "Sentient": false,
     "Fictional": false,
@@ -545,7 +545,7 @@
     "PublicLink": "https://www.cs.cmu.edu/~navlab/"
   },
   {
-    "UID": 1021,
+    "UID": 205,
     "ProjectName": "Carnegie Mellon No Hands Across America",
     "Sentient": false,
     "Fictional": false,
@@ -561,7 +561,7 @@
     "PublicLink": "https://www.cs.cmu.edu/~navlab/nohands.html"
   },
   {
-    "UID": 1041,
+    "UID": 208,
     "ProjectName": "Caterpillar Autonomous Mining Vehicles",
     "Sentient": false,
     "Fictional": false,
@@ -577,7 +577,7 @@
     "PublicLink": "https://www.caterpillar.com/en/news"
   },
   {
-    "UID": 1061,
+    "UID": 211,
     "ProjectName": "CAVForth and CAVForth2",
     "Sentient": false,
     "Fictional": false,
@@ -593,7 +593,7 @@
     "PublicLink": "https://www.alexander-dennis.com/news"
   },
   {
-    "UID": 1081,
+    "UID": 214,
     "ProjectName": "Changi Airport AV Bus Trial",
     "Sentient": false,
     "Fictional": false,
@@ -609,7 +609,7 @@
     "PublicLink": "https://www.changiairport.com/corporate/media-centre/newsroom.html"
   },
   {
-    "UID": 1101,
+    "UID": 217,
     "ProjectName": "Châteauform’ AV Shuttle",
     "Sentient": false,
     "Fictional": false,
@@ -625,7 +625,7 @@
     "PublicLink": "https://www.easymile.com/news"
   },
   {
-    "UID": 1121,
+    "UID": 220,
     "ProjectName": "Chitty Chitty Bang Bang",
     "Sentient": true,
     "Fictional": true,
@@ -641,7 +641,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0061452/"
   },
   {
-    "UID": 1141,
+    "UID": 223,
     "ProjectName": "Christine",
     "Sentient": true,
     "Fictional": true,
@@ -657,7 +657,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0085333/"
   },
   {
-    "UID": 1161,
+    "UID": 226,
     "ProjectName": "CityMobil",
     "Sentient": false,
     "Fictional": false,
@@ -673,7 +673,7 @@
     "PublicLink": "https://cordis.europa.eu/project/id/031496"
   },
   {
-    "UID": 1181,
+    "UID": 229,
     "ProjectName": "CityMobil2",
     "Sentient": false,
     "Fictional": false,
@@ -689,7 +689,7 @@
     "PublicLink": "https://cordis.europa.eu/project/id/314190"
   },
   {
-    "UID": 1201,
+    "UID": 232,
     "ProjectName": "CLEVON Delivery Robots",
     "Sentient": false,
     "Fictional": false,
@@ -705,7 +705,7 @@
     "PublicLink": "https://clevon.com/news"
   },
   {
-    "UID": 1221,
+    "UID": 235,
     "ProjectName": "Cruise Robotaxi Service",
     "Sentient": false,
     "Fictional": false,
@@ -721,7 +721,7 @@
     "PublicLink": "https://www.getcruise.com/news; https://www.rta.ae"
   },
   {
-    "UID": 1241,
+    "UID": 238,
     "ProjectName": "CyberCar",
     "Sentient": false,
     "Fictional": false,
@@ -737,7 +737,7 @@
     "PublicLink": "https://cordis.europa.eu/project/id/IST-2000-25086"
   },
   {
-    "UID": 1261,
+    "UID": 241,
     "ProjectName": "Da Vinci's Cart 1478",
     "Sentient": false,
     "Fictional": false,
@@ -753,7 +753,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Leonardo%27s_self-propelled_cart"
   },
   {
-    "UID": 1281,
+    "UID": 244,
     "ProjectName": "DARPA Urban Challenge",
     "Sentient": false,
     "Fictional": false,
@@ -769,7 +769,7 @@
     "PublicLink": "https://www.darpa.mil/about-us/timeline/urban-challenge"
   },
   {
-    "UID": 1301,
+    "UID": 247,
     "ProjectName": "Demolition Man AVs",
     "Sentient": true,
     "Fictional": true,
@@ -785,7 +785,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0106697/"
   },
   {
-    "UID": 1321,
+    "UID": 250,
     "ProjectName": "DHL + Streetscooter",
     "Sentient": false,
     "Fictional": false,
@@ -801,7 +801,7 @@
     "PublicLink": "https://www.dhl.com/global-en/home/insights-and-innovation/innovation/autonomous-delivery.html"
   },
   {
-    "UID": 1341,
+    "UID": 253,
     "ProjectName": "DiDi Autonomous Driving",
     "Sentient": false,
     "Fictional": false,
@@ -817,7 +817,7 @@
     "PublicLink": "https://www.didiglobal.com/news"
   },
   {
-    "UID": 1361,
+    "UID": 256,
     "ProjectName": "DriveU.auto Partners",
     "Sentient": false,
     "Fictional": false,
@@ -833,7 +833,7 @@
     "PublicLink": "https://www.driveu.auto"
   },
   {
-    "UID": 1381,
+    "UID": 259,
     "ProjectName": "Dubai Autonomous Vehicles",
     "Sentient": false,
     "Fictional": false,
@@ -849,7 +849,7 @@
     "PublicLink": "https://www.rta.ae/wps/portal/rta/ae/home/news"
   },
   {
-    "UID": 1401,
+    "UID": 262,
     "ProjectName": "EasyMile EZ10 Deployments",
     "Sentient": false,
     "Fictional": false,
@@ -865,7 +865,7 @@
     "PublicLink": "https://www.easymile.com/case-studies"
   },
   {
-    "UID": 1421,
+    "UID": 265,
     "ProjectName": "EasyMile EZ10 Pilot",
     "Sentient": false,
     "Fictional": false,
@@ -881,7 +881,7 @@
     "PublicLink": "https://www.easymile.com/case-studies"
   },
   {
-    "UID": 1441,
+    "UID": 268,
     "ProjectName": "EHang Autonomous eVTOL",
     "Sentient": false,
     "Fictional": false,
@@ -897,7 +897,7 @@
     "PublicLink": "https://www.ehang.com/news"
   },
   {
-    "UID": 1461,
+    "UID": 271,
     "ProjectName": "Einride Pods",
     "Sentient": false,
     "Fictional": false,
@@ -913,7 +913,7 @@
     "PublicLink": "https://www.einride.tech/news"
   },
   {
-    "UID": 1481,
+    "UID": 274,
     "ProjectName": "Eureka PROMETHEUS",
     "Sentient": false,
     "Fictional": false,
@@ -929,7 +929,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Eureka_Prometheus_Project"
   },
   {
-    "UID": 1501,
+    "UID": 277,
     "ProjectName": "Eve Autonomy Industrial AVs",
     "Sentient": false,
     "Fictional": false,
@@ -945,7 +945,7 @@
     "PublicLink": "https://eveautonomy.com/en/news"
   },
   {
-    "UID": 1521,
+    "UID": 280,
     "ProjectName": "FABULOS",
     "Sentient": false,
     "Fictional": false,
@@ -961,7 +961,7 @@
     "PublicLink": "https://fabulos.eu/news"
   },
   {
-    "UID": 1541,
+    "UID": 283,
     "ProjectName": "Flying Ford Anglia",
     "Sentient": true,
     "Fictional": true,
@@ -977,7 +977,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0295297/"
   },
   {
-    "UID": 1561,
+    "UID": 286,
     "ProjectName": "GAC Aion Autonomous Taxis",
     "Sentient": false,
     "Fictional": false,
@@ -993,7 +993,7 @@
     "PublicLink": "https://www.gac-aion.com/news"
   },
   {
-    "UID": 1581,
+    "UID": 289,
     "ProjectName": "Gardens by the Bay Shuttle",
     "Sentient": false,
     "Fictional": false,
@@ -1009,7 +1009,7 @@
     "PublicLink": "https://www.gardensbythebay.com.sg/en/plan-your-visit/getting-around/autonomous-shuttle"
   },
   {
-    "UID": 1601,
+    "UID": 292,
     "ProjectName": "Gatik Middle-Mile Trucking",
     "Sentient": false,
     "Fictional": false,
@@ -1025,7 +1025,7 @@
     "PublicLink": "https://gatik.ai/news"
   },
   {
-    "UID": 1621,
+    "UID": 295,
     "ProjectName": "Gattaca Autonomous Cars",
     "Sentient": false,
     "Fictional": true,
@@ -1041,7 +1041,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0119177/"
   },
   {
-    "UID": 1641,
+    "UID": 298,
     "ProjectName": "GCP Connector Autonomous Buses",
     "Sentient": false,
     "Fictional": false,
@@ -1057,7 +1057,7 @@
     "PublicLink": "https://www.greatercambridge.org.uk/transport-projects/cambridge-south-east-transport"
   },
   {
-    "UID": 1661,
+    "UID": 301,
     "ProjectName": "Ghost Autonomy Trials",
     "Sentient": false,
     "Fictional": false,
@@ -1073,7 +1073,7 @@
     "PublicLink": "https://www.ghostautonomy.com/news"
   },
   {
-    "UID": 1681,
+    "UID": 304,
     "ProjectName": "GM Firebird II Concept",
     "Sentient": false,
     "Fictional": false,
@@ -1089,7 +1089,7 @@
     "PublicLink": "https://www.gmheritagecenter.com/featured/Firebird-II.html"
   },
   {
-    "UID": 1701,
+    "UID": 307,
     "ProjectName": "GM Futurama Concept",
     "Sentient": false,
     "Fictional": false,
@@ -1105,7 +1105,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Futurama_(New_York_World%27s_Fair)"
   },
   {
-    "UID": 1721,
+    "UID": 310,
     "ProjectName": "Google Self-Driving Car Project",
     "Sentient": false,
     "Fictional": false,
@@ -1121,7 +1121,7 @@
     "PublicLink": "https://waymo.com/about"
   },
   {
-    "UID": 1741,
+    "UID": 313,
     "ProjectName": "Guangzhou Autonomous Buses",
     "Sentient": false,
     "Fictional": false,
@@ -1137,7 +1137,7 @@
     "PublicLink": "https://www.gac-aion.com/news"
   },
   {
-    "UID": 1761,
+    "UID": 316,
     "ProjectName": "Hands Free Farm",
     "Sentient": false,
     "Fictional": false,
@@ -1153,7 +1153,7 @@
     "PublicLink": "https://www.harper-adams.ac.uk/research"
   },
   {
-    "UID": 1781,
+    "UID": 319,
     "ProjectName": "Hanyang University AV Bus",
     "Sentient": false,
     "Fictional": false,
@@ -1169,7 +1169,7 @@
     "PublicLink": "https://www.hanyang.ac.kr/en/news"
   },
   {
-    "UID": 1801,
+    "UID": 322,
     "ProjectName": "Harwell Campus Shuttle",
     "Sentient": false,
     "Fictional": false,
@@ -1185,7 +1185,7 @@
     "PublicLink": "https://www.darwining.com/news"
   },
   {
-    "UID": 1821,
+    "UID": 325,
     "ProjectName": "Heathrow Pods (BAA ULTra)",
     "Sentient": false,
     "Fictional": false,
@@ -1201,7 +1201,7 @@
     "PublicLink": "https://www.heathrow.com/transport-and-directions/heathrow-pod"
   },
   {
-    "UID": 1841,
+    "UID": 328,
     "ProjectName": "Hephaestus’ robotic carts (8C BC)",
     "Sentient": false,
     "Fictional": true,
@@ -1217,7 +1217,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Iliad"
   },
   {
-    "UID": 1861,
+    "UID": 331,
     "ProjectName": "Herbie",
     "Sentient": true,
     "Fictional": true,
@@ -1233,7 +1233,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0064605/"
   },
   {
-    "UID": 1881,
+    "UID": 334,
     "ProjectName": "Honda Level 3 Deployment",
     "Sentient": false,
     "Fictional": false,
@@ -1249,7 +1249,7 @@
     "PublicLink": "https://global.honda/newsroom"
   },
   {
-    "UID": 1901,
+    "UID": 337,
     "ProjectName": "Houdina Radio-Controlled Car",
     "Sentient": false,
     "Fictional": false,
@@ -1265,7 +1265,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Autonomous_car#History"
   },
   {
-    "UID": 1921,
+    "UID": 340,
     "ProjectName": "Hyundai IONIQ 5 Robotaxi",
     "Sentient": false,
     "Fictional": false,
@@ -1281,7 +1281,7 @@
     "PublicLink": "https://motional.com/news"
   },
   {
-    "UID": 1941,
+    "UID": 343,
     "ProjectName": "I, Robot Audi RSQ",
     "Sentient": true,
     "Fictional": true,
@@ -1297,7 +1297,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0343818/"
   },
   {
-    "UID": 1961,
+    "UID": 346,
     "ProjectName": "I, Robot transport",
     "Sentient": false,
     "Fictional": true,
@@ -1313,7 +1313,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0343818/"
   },
   {
-    "UID": 1981,
+    "UID": 349,
     "ProjectName": "Inceptio Autonomous Trucks",
     "Sentient": false,
     "Fictional": false,
@@ -1329,7 +1329,7 @@
     "PublicLink": "https://www.inceptio.ai/en/news"
   },
   {
-    "UID": 2001,
+    "UID": 352,
     "ProjectName": "JD.com Autonomous Delivery",
     "Sentient": false,
     "Fictional": false,
@@ -1345,7 +1345,7 @@
     "PublicLink": "https://corporate.jd.com/news"
   },
   {
-    "UID": 2021,
+    "UID": 355,
     "ProjectName": "Joby Aviation eVTOL",
     "Sentient": false,
     "Fictional": false,
@@ -1361,7 +1361,7 @@
     "PublicLink": "https://www.jobyaviation.com/news"
   },
   {
-    "UID": 2041,
+    "UID": 358,
     "ProjectName": "Johnny Cab (Total Recall)",
     "Sentient": false,
     "Fictional": true,
@@ -1377,7 +1377,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Total_Recall_(1990_film)"
   },
   {
-    "UID": 2061,
+    "UID": 361,
     "ProjectName": "JouleLabs Handsfree EV Charging",
     "Sentient": false,
     "Fictional": false,
@@ -1393,7 +1393,7 @@
     "PublicLink": "https://www.linkedin.com/posts/bedrock-real-estate-services_joule-labs-detroit-smart-parking-lab-activity-7252391824504299521-xgTz"
   },
   {
-    "UID": 2081,
+    "UID": 364,
     "ProjectName": "Kaohsiung Autonomous Shuttle",
     "Sentient": false,
     "Fictional": false,
@@ -1409,7 +1409,7 @@
     "PublicLink": "https://www.7starlake.com/en/news"
   },
   {
-    "UID": 2101,
+    "UID": 367,
     "ProjectName": "Kar-go by Academy of Robotics",
     "Sentient": false,
     "Fictional": false,
@@ -1425,7 +1425,7 @@
     "PublicLink": "https://www.academyofrobotics.co.uk/news"
   },
   {
-    "UID": 2121,
+    "UID": 370,
     "ProjectName": "Killdozer",
     "Sentient": true,
     "Fictional": true,
@@ -1441,7 +1441,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0071717/"
   },
   {
-    "UID": 2141,
+    "UID": 373,
     "ProjectName": "KIRA (DB Regio / Mobileye)",
     "Sentient": false,
     "Fictional": false,
@@ -1457,7 +1457,7 @@
     "PublicLink": "https://www.mobileye.com/news"
   },
   {
-    "UID": 2161,
+    "UID": 376,
     "ProjectName": "KITT (Knight Rider)",
     "Sentient": true,
     "Fictional": true,
@@ -1473,7 +1473,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/KITT_(Knight_Rider)"
   },
   {
-    "UID": 2181,
+    "UID": 379,
     "ProjectName": "Kodiak & TuSimple Autonomous Trucks",
     "Sentient": false,
     "Fictional": false,
@@ -1489,7 +1489,7 @@
     "PublicLink": "https://kodiak.ai/news"
   },
   {
-    "UID": 2201,
+    "UID": 382,
     "ProjectName": "Kodiak Robotics Trucking Expansion",
     "Sentient": false,
     "Fictional": false,
@@ -1505,7 +1505,7 @@
     "PublicLink": "https://kodiak.ai/news"
   },
   {
-    "UID": 2221,
+    "UID": 385,
     "ProjectName": "Local Motors Olli Shuttle",
     "Sentient": false,
     "Fictional": false,
@@ -1521,7 +1521,7 @@
     "PublicLink": "https://www.proteanelectric.com/local-motors-and-protean-electric-extend-strategic-partnership-to-accelerate-adoption-of-olli-electric-autonomous-vehicles/"
   },
   {
-    "UID": 2241,
+    "UID": 388,
     "ProjectName": "Localiza EasyMile Pilot",
     "Sentient": false,
     "Fictional": false,
@@ -1537,7 +1537,7 @@
     "PublicLink": "https://www.easymile.com/case-studies"
   },
   {
-    "UID": 2261,
+    "UID": 391,
     "ProjectName": "Logan's Run transport pods",
     "Sentient": false,
     "Fictional": true,
@@ -1553,7 +1553,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0074812/"
   },
   {
-    "UID": 2281,
+    "UID": 394,
     "ProjectName": "LUTZ Pathfinder",
     "Sentient": false,
     "Fictional": false,
@@ -1569,7 +1569,7 @@
     "PublicLink": "https://www.oxa.tech/case-studies"
   },
   {
-    "UID": 2301,
+    "UID": 397,
     "ProjectName": "Mach 5",
     "Sentient": true,
     "Fictional": true,
@@ -1585,7 +1585,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0811080/"
   },
   {
-    "UID": 2321,
+    "UID": 400,
     "ProjectName": "Magna Autonomous Delivery",
     "Sentient": false,
     "Fictional": false,
@@ -1601,7 +1601,7 @@
     "PublicLink": "https://www.magna.com/innovation/autonomous-driving"
   },
   {
-    "UID": 2341,
+    "UID": 403,
     "ProjectName": "Mahindra Last Mile Mobility Pilot",
     "Sentient": false,
     "Fictional": false,
@@ -1617,7 +1617,7 @@
     "PublicLink": "https://www.mahindralastmilemobility.com/news"
   },
   {
-    "UID": 2361,
+    "UID": 406,
     "ProjectName": "Maximum Overdrive trucks and cars",
     "Sentient": true,
     "Fictional": true,
@@ -1633,7 +1633,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0091499/"
   },
   {
-    "UID": 2381,
+    "UID": 409,
     "ProjectName": "May Mobility Shuttles",
     "Sentient": false,
     "Fictional": false,
@@ -1649,7 +1649,7 @@
     "PublicLink": "https://maymobility.com/news"
   },
   {
-    "UID": 2401,
+    "UID": 412,
     "ProjectName": "Mercedes-Benz Drive Pilot",
     "Sentient": false,
     "Fictional": false,
@@ -1665,7 +1665,7 @@
     "PublicLink": "https://www.mercedes-benz.com/en/innovation/drive-pilot/"
   },
   {
-    "UID": 2421,
+    "UID": 415,
     "ProjectName": "Minority Report",
     "Sentient": false,
     "Fictional": true,
@@ -1681,7 +1681,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Minority_Report_(film)"
   },
   {
-    "UID": 2441,
+    "UID": 418,
     "ProjectName": "Mobileye / VW Pilot",
     "Sentient": false,
     "Fictional": false,
@@ -1697,7 +1697,7 @@
     "PublicLink": "https://www.mobileye.com/news"
   },
   {
-    "UID": 2461,
+    "UID": 421,
     "ProjectName": "MooBus (Ngee Ann Poly)",
     "Sentient": false,
     "Fictional": false,
@@ -1713,7 +1713,7 @@
     "PublicLink": "https://www.moovita.com/news"
   },
   {
-    "UID": 2481,
+    "UID": 424,
     "ProjectName": "Motional IONIQ 5 Robotaxi",
     "Sentient": false,
     "Fictional": false,
@@ -1729,7 +1729,7 @@
     "PublicLink": "https://motional.com/newsroom"
   },
   {
-    "UID": 2501,
+    "UID": 427,
     "ProjectName": "Navya Autonomous Shuttles",
     "Sentient": false,
     "Fictional": false,
@@ -1745,7 +1745,7 @@
     "PublicLink": "https://navya.tech/en/news"
   },
   {
-    "UID": 2521,
+    "UID": 430,
     "ProjectName": "Neolix Autonomous Delivery Vans",
     "Sentient": false,
     "Fictional": false,
@@ -1761,7 +1761,7 @@
     "PublicLink": "https://www.neolix.ai/en/news"
   },
   {
-    "UID": 2541,
+    "UID": 433,
     "ProjectName": "Neuromancer (William Gibson)",
     "Sentient": true,
     "Fictional": true,
@@ -1777,7 +1777,7 @@
     "PublicLink": "https://archive.org/details/neuromancer00gibs"
   },
   {
-    "UID": 2561,
+    "UID": 436,
     "ProjectName": "Nexar Autonomous Delivery",
     "Sentient": false,
     "Fictional": false,
@@ -1793,7 +1793,7 @@
     "PublicLink": "https://www.nexar.com/news"
   },
   {
-    "UID": 2581,
+    "UID": 439,
     "ProjectName": "NIO Autonomous Driving",
     "Sentient": false,
     "Fictional": false,
@@ -1809,7 +1809,7 @@
     "PublicLink": "https://www.nio.com/news"
   },
   {
-    "UID": 2601,
+    "UID": 442,
     "ProjectName": "Nissan Autonomous Delivery",
     "Sentient": false,
     "Fictional": false,
@@ -1825,7 +1825,7 @@
     "PublicLink": "https://global.nissannews.com"
   },
   {
-    "UID": 2621,
+    "UID": 445,
     "ProjectName": "NTU–Volvo Smart Bus",
     "Sentient": false,
     "Fictional": false,
@@ -1841,7 +1841,7 @@
     "PublicLink": "https://www.volvobuses.com/en/news"
   },
   {
-    "UID": 2641,
+    "UID": 448,
     "ProjectName": "Nuro Autonomous Delivery",
     "Sentient": false,
     "Fictional": false,
@@ -1857,7 +1857,7 @@
     "PublicLink": "https://www.nuro.ai/news"
   },
   {
-    "UID": 2661,
+    "UID": 451,
     "ProjectName": "Ohio State University Automated Highway Tests",
     "Sentient": false,
     "Fictional": false,
@@ -1873,7 +1873,7 @@
     "PublicLink": "https://ieeexplore.ieee.org/document/1150503"
   },
   {
-    "UID": 2681,
+    "UID": 454,
     "ProjectName": "Oxa Autonomous Deployments",
     "Sentient": false,
     "Fictional": false,
@@ -1889,7 +1889,7 @@
     "PublicLink": "https://www.oxa.tech/case-studies"
   },
   {
-    "UID": 2701,
+    "UID": 457,
     "ProjectName": "Oxa Milton Park Shuttle Trials",
     "Sentient": false,
     "Fictional": false,
@@ -1905,7 +1905,7 @@
     "PublicLink": "https://www.oxa.tech/case-studies"
   },
   {
-    "UID": 2721,
+    "UID": 460,
     "ProjectName": "Oxa Shuttle Trials",
     "Sentient": false,
     "Fictional": false,
@@ -1921,7 +1921,7 @@
     "PublicLink": "https://www.oxa.tech/news"
   },
   {
-    "UID": 2741,
+    "UID": 463,
     "ProjectName": "Oxbotica Heathrow CargoPod",
     "Sentient": false,
     "Fictional": false,
@@ -1937,7 +1937,7 @@
     "PublicLink": "https://www.oxa.tech/case-studies"
   },
   {
-    "UID": 2761,
+    "UID": 466,
     "ProjectName": "PAVE UK",
     "Sentient": false,
     "Fictional": false,
@@ -1953,7 +1953,7 @@
     "PublicLink": "https://warwick.ac.uk/fac/sci/wmg/research/pave"
   },
   {
-    "UID": 2781,
+    "UID": 469,
     "ProjectName": "PIX Moving Modular AV Platforms",
     "Sentient": false,
     "Fictional": false,
@@ -1969,7 +1969,7 @@
     "PublicLink": "https://www.youtube.com/watch?v=umh4cKhGhwE"
   },
   {
-    "UID": 2801,
+    "UID": 472,
     "ProjectName": "Plus.ai Autonomous Trucking",
     "Sentient": false,
     "Fictional": false,
@@ -1985,7 +1985,7 @@
     "PublicLink": "https://www.plus.ai/"
   },
   {
-    "UID": 2821,
+    "UID": 475,
     "ProjectName": "Pony.ai Robotaxi Services",
     "Sentient": false,
     "Fictional": false,
@@ -2001,7 +2001,7 @@
     "PublicLink": "https://pony.ai/en/news"
   },
   {
-    "UID": 2841,
+    "UID": 478,
     "ProjectName": "Port Authority NY-NJ AV Shuttle",
     "Sentient": false,
     "Fictional": false,
@@ -2017,7 +2017,7 @@
     "PublicLink": "https://nationalcenterformobilitymanagement.org"
   },
   {
-    "UID": 2861,
+    "UID": 481,
     "ProjectName": "Project ANTON",
     "Sentient": false,
     "Fictional": false,
@@ -2033,7 +2033,7 @@
     "PublicLink": "https://www.thi.de/en/research/carissma/c-isafe/translate-to-english-projekt-anton/"
   },
   {
-    "UID": 2881,
+    "UID": 484,
     "ProjectName": "Project Aslan",
     "Sentient": false,
     "Fictional": false,
@@ -2049,7 +2049,7 @@
     "PublicLink": "https://www.forbes.com/sites/bryancampbell/2020/07/14/new-open-source-software-looks-to-kickstart-the-autonomous-revolution/"
   },
   {
-    "UID": 2901,
+    "UID": 487,
     "ProjectName": "Race: Abu Dhabi Autonomous Racing League (A2RL)",
     "Sentient": false,
     "Fictional": false,
@@ -2065,7 +2065,7 @@
     "PublicLink": "https://a2rl.io/news"
   },
   {
-    "UID": 2921,
+    "UID": 490,
     "ProjectName": "Race: Formula Student Driverless (Formula Student AI)",
     "Sentient": false,
     "Fictional": false,
@@ -2081,7 +2081,7 @@
     "PublicLink": "https://www.formulastudent.de/en/"
   },
   {
-    "UID": 2941,
+    "UID": 493,
     "ProjectName": "Race: Indy Autonomous Challenge",
     "Sentient": false,
     "Fictional": false,
@@ -2097,7 +2097,7 @@
     "PublicLink": "https://www.indyautonomouschallenge.com/news"
   },
   {
-    "UID": 2961,
+    "UID": 496,
     "ProjectName": "Race: Roborace",
     "Sentient": false,
     "Fictional": false,
@@ -2113,7 +2113,7 @@
     "PublicLink": "https://roborace.com/news"
   },
   {
-    "UID": 2981,
+    "UID": 499,
     "ProjectName": "Race: RoboRacer",
     "Sentient": false,
     "Fictional": false,
@@ -2129,7 +2129,7 @@
     "PublicLink": "https://roboracer.ai/"
   },
   {
-    "UID": 3001,
+    "UID": 502,
     "ProjectName": "RCA Labs Automated Car",
     "Sentient": false,
     "Fictional": false,
@@ -2145,7 +2145,7 @@
     "PublicLink": "https://www.rca.com/about/history/"
   },
   {
-    "UID": 3021,
+    "UID": 505,
     "ProjectName": "REE Automotive AV Platforms",
     "Sentient": false,
     "Fictional": false,
@@ -2161,7 +2161,7 @@
     "PublicLink": "https://ree.auto/technology/"
   },
   {
-    "UID": 3041,
+    "UID": 508,
     "ProjectName": "Refraction AI Delivery Robots",
     "Sentient": false,
     "Fictional": false,
@@ -2177,7 +2177,7 @@
     "PublicLink": "https://www.refraction.ai/news"
   },
   {
-    "UID": 3061,
+    "UID": 511,
     "ProjectName": "RideFlux Autonomous Taxi",
     "Sentient": false,
     "Fictional": false,
@@ -2193,7 +2193,7 @@
     "PublicLink": "https://rideflux.com/news"
   },
   {
-    "UID": 3081,
+    "UID": 514,
     "ProjectName": "Rino.ai Delivery Vans",
     "Sentient": false,
     "Fictional": false,
@@ -2209,7 +2209,7 @@
     "PublicLink": "https://rino.ai/news"
   },
   {
-    "UID": 3101,
+    "UID": 517,
     "ProjectName": "Robby the Robot Car",
     "Sentient": true,
     "Fictional": true,
@@ -2225,7 +2225,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Autonomous_car#In_fiction"
   },
   {
-    "UID": 3121,
+    "UID": 520,
     "ProjectName": "RoboShuttle",
     "Sentient": false,
     "Fictional": false,
@@ -2241,7 +2241,7 @@
     "PublicLink": "https://www.hyundai.news"
   },
   {
-    "UID": 3141,
+    "UID": 523,
     "ProjectName": "SAIC Robotaxi Demonstration",
     "Sentient": false,
     "Fictional": false,
@@ -2257,7 +2257,7 @@
     "PublicLink": "https://www.saicmotor.com/english/news"
   },
   {
-    "UID": 3161,
+    "UID": 526,
     "ProjectName": "Sally (Isaac Asimov)",
     "Sentient": true,
     "Fictional": true,
@@ -2273,7 +2273,7 @@
     "PublicLink": "https://archive.org/details/fantasticfiction00asim"
   },
   {
-    "UID": 3181,
+    "UID": 529,
     "ProjectName": "SAMS",
     "Sentient": false,
     "Fictional": false,
@@ -2289,7 +2289,7 @@
     "PublicLink": "https://www.oxa.tech/news"
   },
   {
-    "UID": 3201,
+    "UID": 532,
     "ProjectName": "SCALE",
     "Sentient": false,
     "Fictional": false,
@@ -2305,7 +2305,7 @@
     "PublicLink": "https://www.ohmio.com/news"
   },
   {
-    "UID": 3221,
+    "UID": 535,
     "ProjectName": "Sensible 4 Shuttle Trial",
     "Sentient": false,
     "Fictional": false,
@@ -2321,7 +2321,7 @@
     "PublicLink": "https://sensible4.fi/news"
   },
   {
-    "UID": 3241,
+    "UID": 538,
     "ProjectName": "Seoul Autonomous Services",
     "Sentient": false,
     "Fictional": false,
@@ -2337,7 +2337,7 @@
     "PublicLink": "https://www.kakaomobility.com/en/news"
   },
   {
-    "UID": 3261,
+    "UID": 541,
     "ProjectName": "Serve Robotics Delivery",
     "Sentient": false,
     "Fictional": false,
@@ -2353,7 +2353,7 @@
     "PublicLink": "https://www.serve.ai/news"
   },
   {
-    "UID": 3281,
+    "UID": 544,
     "ProjectName": "Singapore Autonomous Buses (LTA)",
     "Sentient": false,
     "Fictional": false,
@@ -2369,7 +2369,7 @@
     "PublicLink": "https://www.lta.gov.sg/content/ltagov/en/newsroom.html"
   },
   {
-    "UID": 3301,
+    "UID": 547,
     "ProjectName": "Small Robot Company",
     "Sentient": false,
     "Fictional": false,
@@ -2385,7 +2385,7 @@
     "PublicLink": "https://www.smallrobotcompany.com/news"
   },
   {
-    "UID": 3321,
+    "UID": 550,
     "ProjectName": "Stanford Cart",
     "Sentient": false,
     "Fictional": false,
@@ -2401,7 +2401,7 @@
     "PublicLink": "https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/autonomous-driving/history.html"
   },
   {
-    "UID": 3341,
+    "UID": 553,
     "ProjectName": "Starship Robots",
     "Sentient": false,
     "Fictional": false,
@@ -2417,7 +2417,7 @@
     "PublicLink": "https://www.starship.xyz/news"
   },
   {
-    "UID": 3361,
+    "UID": 556,
     "ProjectName": "Stellenbosch University Autonomous Shuttle",
     "Sentient": false,
     "Fictional": false,
@@ -2433,7 +2433,7 @@
     "PublicLink": "https://www.sun.ac.za/english/faculty/engineering/research/autonomous-systems"
   },
   {
-    "UID": 3381,
+    "UID": 559,
     "ProjectName": "StreetDrone V-CAL",
     "Sentient": false,
     "Fictional": false,
@@ -2449,7 +2449,7 @@
     "PublicLink": "https://www.streetdrone.com/news"
   },
   {
-    "UID": 3401,
+    "UID": 562,
     "ProjectName": "Tainan Autonomous Bus Trials",
     "Sentient": false,
     "Fictional": false,
@@ -2465,7 +2465,7 @@
     "PublicLink": "https://www.tainan.gov.tw/en/news"
   },
   {
-    "UID": 3421,
+    "UID": 565,
     "ProjectName": "Taiwan Intelligent Autonomous Driving Bus",
     "Sentient": false,
     "Fictional": false,
@@ -2481,7 +2481,7 @@
     "PublicLink": "https://www.joyride.com.tw/news"
   },
   {
-    "UID": 3441,
+    "UID": 568,
     "ProjectName": "Tata Elxsi Autonomous Shuttles",
     "Sentient": false,
     "Fictional": false,
@@ -2497,7 +2497,7 @@
     "PublicLink": "https://www.tataelxsi.com/news"
   },
   {
-    "UID": 3461,
+    "UID": 571,
     "ProjectName": "TERMINAL",
     "Sentient": false,
     "Fictional": false,
@@ -2513,7 +2513,7 @@
     "PublicLink": "https://www.interreg-gr.eu/en/projects/terminal"
   },
   {
-    "UID": 3481,
+    "UID": 574,
     "ProjectName": "Tesla Autonomous Services",
     "Sentient": false,
     "Fictional": false,
@@ -2529,7 +2529,7 @@
     "PublicLink": "https://www.tesla.com/blog"
   },
   {
-    "UID": 3501,
+    "UID": 577,
     "ProjectName": "The Car",
     "Sentient": true,
     "Fictional": true,
@@ -2545,7 +2545,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0075809/"
   },
   {
-    "UID": 3521,
+    "UID": 580,
     "ProjectName": "The Driverless Car (Heinlein)",
     "Sentient": true,
     "Fictional": true,
@@ -2561,7 +2561,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/The_Roads_Must_Roll"
   },
   {
-    "UID": 3541,
+    "UID": 583,
     "ProjectName": "The Electric Ant (Philip K. Dick)",
     "Sentient": true,
     "Fictional": true,
@@ -2577,7 +2577,7 @@
     "PublicLink": "https://archive.org/details/galaxymagazine1969"
   },
   {
-    "UID": 3561,
+    "UID": 586,
     "ProjectName": "The Fifth Element Taxi",
     "Sentient": true,
     "Fictional": true,
@@ -2593,7 +2593,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0119116/"
   },
   {
-    "UID": 3581,
+    "UID": 589,
     "ProjectName": "Thomas the Tank Engine vehicles",
     "Sentient": true,
     "Fictional": true,
@@ -2609,7 +2609,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Thomas_the_Tank_Engine"
   },
   {
-    "UID": 3601,
+    "UID": 592,
     "ProjectName": "Tier IV Autonomous Trials",
     "Sentient": false,
     "Fictional": false,
@@ -2625,7 +2625,7 @@
     "PublicLink": "https://tier4.jp/en/news"
   },
   {
-    "UID": 3621,
+    "UID": 595,
     "ProjectName": "Tootles the Taxi",
     "Sentient": true,
     "Fictional": true,
@@ -2641,7 +2641,7 @@
     "PublicLink": "https://archive.org/details/tootles-the-taxi-and-other-rhymes"
   },
   {
-    "UID": 3641,
+    "UID": 598,
     "ProjectName": "Toyota e-Palette",
     "Sentient": false,
     "Fictional": false,
@@ -2657,7 +2657,7 @@
     "PublicLink": "https://global.toyota/en/newsroom"
   },
   {
-    "UID": 3661,
+    "UID": 601,
     "ProjectName": "Transdev Autonomous Shuttle",
     "Sentient": false,
     "Fictional": false,
@@ -2673,7 +2673,7 @@
     "PublicLink": "https://www.transdev.com.au/news"
   },
   {
-    "UID": 3681,
+    "UID": 604,
     "ProjectName": "Transformers",
     "Sentient": true,
     "Fictional": true,
@@ -2689,7 +2689,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0418279/"
   },
   {
-    "UID": 3701,
+    "UID": 607,
     "ProjectName": "Tron Autonomous Vehicles",
     "Sentient": true,
     "Fictional": true,
@@ -2705,7 +2705,7 @@
     "PublicLink": "https://www.imdb.com/title/tt0084827/"
   },
   {
-    "UID": 3721,
+    "UID": 610,
     "ProjectName": "Tsukuba Mechanical Engineering Lab Car",
     "Sentient": false,
     "Fictional": false,
@@ -2721,7 +2721,7 @@
     "PublicLink": "https://en.wikipedia.org/wiki/Autonomous_car#History"
   },
   {
-    "UID": 3741,
+    "UID": 613,
     "ProjectName": "Turing Drive Autonomous Vehicles",
     "Sentient": false,
     "Fictional": false,
@@ -2737,7 +2737,7 @@
     "PublicLink": "https://www.turingdrive.com/news"
   },
   {
-    "UID": 3761,
+    "UID": 616,
     "ProjectName": "Uber AV Delivery",
     "Sentient": false,
     "Fictional": false,
@@ -2753,7 +2753,7 @@
     "PublicLink": "https://www.uber.com/newsroom"
   },
   {
-    "UID": 3781,
+    "UID": 619,
     "ProjectName": "Uber AV Partnerships",
     "Sentient": false,
     "Fictional": false,
@@ -2769,7 +2769,7 @@
     "PublicLink": "https://www.uber.com/newsroom"
   },
   {
-    "UID": 3801,
+    "UID": 622,
     "ProjectName": "Uber-Momenta Robotaxi Service",
     "Sentient": false,
     "Fictional": false,
@@ -2785,7 +2785,7 @@
     "PublicLink": "https://www.momenta.ai/en/news"
   },
   {
-    "UID": 3821,
+    "UID": 625,
     "ProjectName": "VisLab Intercontinental Autonomous Challenge",
     "Sentient": false,
     "Fictional": false,
@@ -2801,7 +2801,7 @@
     "PublicLink": "https://vislab.it/intercontinental-autonomous-challenge"
   },
   {
-    "UID": 3841,
+    "UID": 628,
     "ProjectName": "Volocopter eVTOL",
     "Sentient": false,
     "Fictional": false,
@@ -2817,7 +2817,7 @@
     "PublicLink": "https://www.volocopter.com/en/newsroom"
   },
   {
-    "UID": 3861,
+    "UID": 631,
     "ProjectName": "Volvo Autonomous Bus Trial",
     "Sentient": false,
     "Fictional": false,
@@ -2833,7 +2833,7 @@
     "PublicLink": "https://www.volvobuses.com/en/news"
   },
   {
-    "UID": 3881,
+    "UID": 634,
     "ProjectName": "Volvo Autonomous Solutions",
     "Sentient": false,
     "Fictional": false,
@@ -2849,7 +2849,7 @@
     "PublicLink": "https://www.volvogroup.com/en/news-and-media"
   },
   {
-    "UID": 3901,
+    "UID": 637,
     "ProjectName": "Waymo Japan Testing",
     "Sentient": false,
     "Fictional": false,
@@ -2865,7 +2865,7 @@
     "PublicLink": "https://waymo.com/news"
   },
   {
-    "UID": 3921,
+    "UID": 640,
     "ProjectName": "Waymo One Robotaxi",
     "Sentient": false,
     "Fictional": false,
@@ -2881,7 +2881,7 @@
     "PublicLink": "https://waymo.com/waymo-one; https://blog.waymo.com/"
   },
   {
-    "UID": 3941,
+    "UID": 643,
     "ProjectName": "Wayve AV Trials",
     "Sentient": false,
     "Fictional": false,
@@ -2897,7 +2897,7 @@
     "PublicLink": "https://www.wayve.ai"
   },
   {
-    "UID": 3961,
+    "UID": 646,
     "ProjectName": "WeRide Autonomous Services",
     "Sentient": false,
     "Fictional": false,
@@ -2913,7 +2913,7 @@
     "PublicLink": "https://www.weride.ai/en/news"
   },
   {
-    "UID": 3981,
+    "UID": 649,
     "ProjectName": "Whale Dynamic AV Trials",
     "Sentient": false,
     "Fictional": false,
@@ -2929,7 +2929,7 @@
     "PublicLink": "https://www.whaledynamic.com/Vehicle.html"
   },
   {
-    "UID": 4001,
+    "UID": 652,
     "ProjectName": "WHILL Autonomous Wheelchairs",
     "Sentient": false,
     "Fictional": false,
@@ -2945,7 +2945,7 @@
     "PublicLink": "https://whill.inc"
   },
   {
-    "UID": 4021,
+    "UID": 655,
     "ProjectName": "Windrose Autonomous Trucks",
     "Sentient": false,
     "Fictional": false,
@@ -2961,7 +2961,7 @@
     "PublicLink": "https://www.windrose.com/news"
   },
   {
-    "UID": 4041,
+    "UID": 658,
     "ProjectName": "Xpeng Autonomous Vehicles",
     "Sentient": false,
     "Fictional": false,
@@ -2977,7 +2977,7 @@
     "PublicLink": "https://www.xpeng.com/en/news"
   },
   {
-    "UID": 4061,
+    "UID": 661,
     "ProjectName": "Yandex Autonomous Delivery",
     "Sentient": false,
     "Fictional": false,
@@ -2993,7 +2993,7 @@
     "PublicLink": "https://yandex.com/company/news"
   },
   {
-    "UID": 4081,
+    "UID": 664,
     "ProjectName": "Yandex Robotaxi",
     "Sentient": false,
     "Fictional": false,
@@ -3009,7 +3009,7 @@
     "PublicLink": "https://yandex.com/company/technologies/av/"
   },
   {
-    "UID": 4101,
+    "UID": 667,
     "ProjectName": "Yutong Xiaoyu 2.0 & WITGO Pilot",
     "Sentient": false,
     "Fictional": false,
@@ -3025,7 +3025,7 @@
     "PublicLink": "https://www.sustainable-bus.com/autonomous-vehicles/yutong-demonstrates-5g-based-autonomous-bus-operations-in-zhengzhou/"
   },
   {
-    "UID": 4121,
+    "UID": 670,
     "ProjectName": "ZF Terminal Shuttle",
     "Sentient": false,
     "Fictional": false,
@@ -3041,7 +3041,7 @@
     "PublicLink": "https://www.zf.com/mobile/en/newsroom"
   },
   {
-    "UID": 4141,
+    "UID": 673,
     "ProjectName": "Zipline Autonomous Drones",
     "Sentient": false,
     "Fictional": false,
@@ -3057,7 +3057,7 @@
     "PublicLink": "https://flyzipline.com/newsroom"
   },
   {
-    "UID": 4161,
+    "UID": 676,
     "ProjectName": "Zoox Commercial Production",
     "Sentient": false,
     "Fictional": false,
@@ -3073,7 +3073,7 @@
     "PublicLink": "https://zoox.com/news"
   },
   {
-    "UID": 4181,
+    "UID": 679,
     "ProjectName": "Zoox Robotaxi Service",
     "Sentient": false,
     "Fictional": false,
