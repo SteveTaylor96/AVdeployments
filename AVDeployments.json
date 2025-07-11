@@ -9,10 +9,10 @@
 "EndYR": null,
 "LocationIDs": [197, 110],
 "TypeIDs": [11],
-"Capacity": "22"
-"SWCoID": [2001],
-"SWNote": "ZF"
-"Open": false,
+"Capacity": "22”,
+“SWCoID": [2001],
+"SWNote": "ZF”,
+“Open": false,
 "OrganisationIDs": [3600, 2961],
 "Status": "Ongoing since 1997, deployed in six cities/airports",
 "Source": "Grok",
@@ -27,10 +27,10 @@
 "EndYR": null,
 "LocationIDs": [251],
 "TypeIDs": [11],
-"Capacity": "6-10"
-"SWCoID": [2010],
-"SWNote": ""
-"Open": false,
+"Capacity": "6-10”,
+“SWCoID": [2010],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2010, 2961, 2844, 2007],
 "Status": "Bus trials ongoing since 2017; vending machine trial completed 2019",
 "Source": "Grok",
@@ -45,10 +45,10 @@
 "EndYR": null,
 "LocationIDs": [260, 104],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2019],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2019],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2019],
 "Status": "Ongoing trials since 2021, expanding globally",
 "Source": "Grok",
@@ -63,10 +63,10 @@
 "EndYR": null,
 "LocationIDs": [197, 149],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2052],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2052],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2052, 2304],
 "Status": "Pilots and demos ongoing",
 "Source": "ChatGPT",
@@ -81,10 +81,10 @@
 "EndYR": 2022,
 "LocationIDs": [161, 263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2055],
-"SWNote": "aiDrive"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2055],
+"SWNote": "aiDrive”,
+“Open": false,
 "OrganisationIDs": [2055, 3213],
 "Status": "Completed 2022 (trials 2015-2022), transitioned to Stellantis programs",
 "Source": "Grok",
@@ -99,10 +99,10 @@
 "EndYR": 1206,
 "LocationIDs": [254, 170],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Historical",
 "Source": "Grok",
@@ -117,10 +117,10 @@
 "EndYR": null,
 "LocationIDs": [263, 260, 143],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2073],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2073],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2073],
 "Status": "Operational in US since 2019, Europe trials since 2024",
 "Source": "Grok",
@@ -135,10 +135,10 @@
 "EndYR": null,
 "LocationIDs": [263, 149],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2106],
-"SWNote": "now integrated with Ford/VW"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2106],
+"SWNote": "now integrated with Ford/VW”,
+“Open": false,
 "OrganisationIDs": [2472, 3510, 2757],
 "Status": "Argo AI defunct (2022); tech integrated into Ford (L2+/L3) and VW/MOIA (L4) programs, ongoing in 2025.",
 "Source": "ChatGPT, Grok",
@@ -153,10 +153,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [51],
-"Capacity": ""
-"SWCoID": [2127],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2127],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2127, 3342],
 "Status": "Ongoing, integrated with logistics networks",
 "Source": "Grok",
@@ -171,10 +171,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [11],
-"Capacity": "6-8"
-"SWCoID": [2130],
-"SWNote": ""
-"Open": false,
+"Capacity": "6-8”,
+“SWCoID": [2130],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2130, 2802, 2607],
 "Status": "Ongoing since 2019, public trials in urban areas",
 "Source": "Grok",
@@ -189,10 +189,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2130],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2130],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2130, 2175, 2583],
 "Status": "Operational since 2019, ongoing deployments at Heathrow Airport.",
 "Source": "Perplexity",
@@ -207,10 +207,10 @@
 "EndYR": null,
 "LocationIDs": [122, 230],
 "TypeIDs": [11],
-"Capacity": "10-12"
-"SWCoID": [2133],
-"SWNote": ""
-"Open": true,
+"Capacity": "10-12”,
+“SWCoID": [2133],
+"SWNote": "“,
+“Open": true,
 "OrganisationIDs": [2133, 2961, 3201],
 "Status": "Ongoing trials in China since 2023, Singapore pilot started 2024",
 "Source": "Grok",
@@ -225,10 +225,10 @@
 "EndYR": null,
 "LocationIDs": [230, 122],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2133],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2133],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2133, 3201],
 "Status": "Pilot trials since 2024 in Singapore’s Changi Business Park; operational in Shenzhen",
 "Source": "Grok",
@@ -243,10 +243,10 @@
 "EndYR": 1910,
 "LocationIDs": [260],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Conceptual, fictional depiction in H.G. Wells \"The Sleeper Awakes\" (1899/1910) in London in 2100 and the \"Time Machine\" in the world of Eloi and Morlocks in 802701",
 "Source": "Grok",
@@ -261,10 +261,10 @@
 "EndYR": null,
 "LocationIDs": [122],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2157],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2157],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2157],
 "Status": "Operational, 1000+ fully driverless robotaxis",
 "Source": "Grok",
@@ -279,10 +279,10 @@
 "EndYR": null,
 "LocationIDs": [140, 143, 179],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2160],
-"SWNote": "Autoware"
-"Open": true,
+"Capacity": "“,
+“SWCoID": [2160],
+"SWNote": "Autoware”,
+“Open": true,
 "OrganisationIDs": [2160, 2961, 2955],
 "Status": "Ongoing trials since 2021, expanding in 2025",
 "Source": "Grok",
@@ -297,10 +297,10 @@
 "EndYR": null,
 "LocationIDs": [146, 248, 185, 134],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2853],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2853],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3300, 2562, 2400, 2961],
 "Status": "Completed 2022",
 "Source": "ChatGPT",
@@ -315,10 +315,10 @@
 "EndYR": null,
 "LocationIDs": [239],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2247],
 "Status": "Fictional",
 "Source": "Grok",
@@ -333,10 +333,10 @@
 "EndYR": 1989,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2361],
 "Status": "Fictional, depicted in 'Back to the Future Part II' (1989)",
 "Source": "Grok",
@@ -351,10 +351,10 @@
 "EndYR": null,
 "LocationIDs": [122, 230, 248, 254],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2190],
-"SWNote": "Baidu"
-"Open": true,
+"Capacity": "“,
+“SWCoID": [2190],
+"SWNote": "Baidu”,
+“Open": true,
 "OrganisationIDs": [2190, 2100, 2139, 3237, 2958, 2454],
 "Status": "Operational in China since 2019, 500 robotaxis in Wuhan (2024), targeting 1000 by 2025; Singapore planned for 2025; Switzerland/Turkey in planning",
 "Source": "Grok",
@@ -369,10 +369,10 @@
 "EndYR": null,
 "LocationIDs": [122],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2190],
-"SWNote": "Baidu"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2190],
+"SWNote": "Baidu”,
+“Open": false,
 "OrganisationIDs": [2190, 2187],
 "Status": "Operational since 2022; fully driverless in Wuhan since 2024, expanding in 2025",
 "Source": "Grok",
@@ -387,10 +387,10 @@
 "EndYR": null,
 "LocationIDs": [266],
 "TypeIDs": [11],
-"Capacity": "10"
-"SWCoID": [2190],
-"SWNote": "Baidu"
-"Open": true,
+"Capacity": "10”,
+“SWCoID": [2190],
+"SWNote": "Baidu”,
+“Open": true,
 "OrganisationIDs": [2190, 2961, 2958],
 "Status": "Pilot trials ongoing since August 2025",
 "Source": "Grok",
@@ -405,10 +405,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Fictional (Wayne Enterprises)",
 "Source": "Grok",
@@ -423,10 +423,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [11],
-"Capacity": "6-10"
-"SWCoID": [2199],
-"SWNote": ""
-"Open": false,
+"Capacity": "6-10”,
+“SWCoID": [2199],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2199, 2856],
 "Status": "Ongoing, deployed in multiple US locations",
 "Source": "Grok",
@@ -441,10 +441,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Conceptual, fictional depiction in \"Blade Runner\" film (1982)",
 "Source": "Grok",
@@ -459,10 +459,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2214],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2214],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2214],
 "Status": "Pilot testing since 2024 for spaceport operations",
 "Source": "Grok",
@@ -477,10 +477,10 @@
 "EndYR": null,
 "LocationIDs": [263, 149],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2472],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2472],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2472, 2811],
 "Status": "Commercially available L2+ in US/Europe; L3 trials in Germany ongoing",
 "Source": "Grok",
@@ -495,10 +495,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2220],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2220],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2220, 2955],
 "Status": "Ongoing trials since 2024, expanding in 2025",
 "Source": "Grok",
@@ -513,10 +513,10 @@
 "EndYR": null,
 "LocationIDs": [149, 173, 122],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2811],
-"SWNote": "Mobileye Drive"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2811],
+"SWNote": "Mobileye Drive”,
+“Open": false,
 "OrganisationIDs": [2223, 2811, 2889],
 "Status": "Active highway & urban pilots",
 "Source": "ChatGPT, Grok",
@@ -531,10 +531,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": "sentient AI-like personality"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "sentient AI-like personality”,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Fictional, ongoing in 'Bob the Builder' series (1998 - present)",
 "Source": "Grok",
@@ -549,10 +549,10 @@
 "EndYR": null,
 "LocationIDs": [179],
 "TypeIDs": [11],
-"Capacity": "8"
-"SWCoID": [2160],
-"SWNote": "Autoware"
-"Open": true,
+"Capacity": "8”,
+“SWCoID": [2160],
+"SWNote": "Autoware”,
+“Open": true,
 "OrganisationIDs": [3183, 2160],
 "Status": "Operational since 2023, expanding to 50 areas by 2025",
 "Source": "Grok",
@@ -567,10 +567,10 @@
 "EndYR": 2025,
 "LocationIDs": [263],
 "TypeIDs": [21, 61],
-"Capacity": ""
-"SWCoID": [2259],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2259],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2580, 3522, 2688],
 "Status": "Defunct January 2025",
 "Source": "Grok",
@@ -585,10 +585,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [21, 51],
-"Capacity": ""
-"SWCoID": [2154],
-"SWNote": "Autoware"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2154],
+"SWNote": "Autoware”,
+“Open": false,
 "OrganisationIDs": [3477],
 "Status": "Research and early fleet tests",
 "Source": "ChatGPT",
@@ -603,10 +603,10 @@
 "EndYR": 1989,
 "LocationIDs": [263],
 "TypeIDs": [21, 61],
-"Capacity": ""
-"SWCoID": [2271],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2271],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2271],
 "Status": "Experimental, conducted 1984–1989; foundational AV research",
 "Source": "Perplexity, Grok",
@@ -621,10 +621,10 @@
 "EndYR": 1995,
 "LocationIDs": [263],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2271],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2271],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2271],
 "Status": "Completed 1995; 98% autonomous cross-country drive",
 "Source": "Perplexity, Grok",
@@ -639,10 +639,10 @@
 "EndYR": null,
 "LocationIDs": [104, 263, 116],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2280],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2280],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2280, 3069, 2211],
 "Status": "Operational in mining sites since 2018, expanding in 2025",
 "Source": "Grok",
@@ -657,10 +657,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2481],
-"SWNote": "CAVstar"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2481],
+"SWNote": "CAVstar”,
+“Open": false,
 "OrganisationIDs": [2064, 3204, 2841, 2481, 2487, 2625, 2382, 2283, 3552, 2607],
 "Status": "CAVForth completed Feb 2025; CAVForth2 in progress",
 "Source": "ChatGPT, Grok",
@@ -675,10 +675,10 @@
 "EndYR": null,
 "LocationIDs": [230],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [3201],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3201],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3201, 2292],
 "Status": "Two-year trial started July 2024",
 "Source": "Grok",
@@ -693,10 +693,10 @@
 "EndYR": null,
 "LocationIDs": [146],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2397],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2397],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2397],
 "Status": "Operational privately",
 "Source": "ChatGPT",
@@ -711,10 +711,10 @@
 "EndYR": 1910,
 "LocationIDs": [260, 269],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Fictional, depicted in 'Chitty Chitty Bang Bang' (1968 film) magical (Caractacus Potts)",
 "Source": "Grok",
@@ -729,10 +729,10 @@
 "EndYR": 1978,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2472],
 "Status": "Fictional (Stephen King 1983) supernatural sentience (Plymouth)",
 "Source": "Grok",
@@ -747,10 +747,10 @@
 "EndYR": 2011,
 "LocationIDs": [260, 176],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2442],
 "Status": "Completed 2011 (trials 2006-2011)",
 "Source": "Grok",
@@ -765,10 +765,10 @@
 "EndYR": 2016,
 "LocationIDs": [146, 155, 143],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2397],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2397],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2397, 2613, 3423, 2436],
 "Status": "Completed (2012-2016)",
 "Source": "Grok",
@@ -783,10 +783,10 @@
 "EndYR": null,
 "LocationIDs": [140, 110, 197],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2310],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2310],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2310],
 "Status": "Operational in Estonia, Belgium, others",
 "Source": "ChatGPT",
@@ -801,10 +801,10 @@
 "EndYR": null,
 "LocationIDs": [263, 257],
 "TypeIDs": [21, 31],
-"Capacity": ""
-"SWCoID": [2322],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2322],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2505, 2565, 3522, 3183, 2322, 2394],
 "Status": "Supervised testing resumed 2024 in Phoenix, Houston, Dallas; scaling in 2025; Dubai deployment planned but timeline uncertain.",
 "Source": "Grok, ChatGPT",
@@ -819,10 +819,10 @@
 "EndYR": 2004,
 "LocationIDs": [146, 248],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2436, 2613, 2961],
 "Status": "Completed 2004 (trials 1997-2004)",
 "Source": "Grok",
@@ -837,10 +837,10 @@
 "EndYR": 1519,
 "LocationIDs": [176],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2724],
 "Status": "Conceptual",
 "Source": "Historical",
@@ -855,10 +855,10 @@
 "EndYR": 2007,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2340, 2271, 3207, 2961, 2955, 2958],
 "Status": "Completed 2007",
 "Source": "Grok",
@@ -873,10 +873,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": "centralized city control"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "centralized city control”,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Conceptual fictional depiction in \"Demolition Man\" film (1993) San Angeles city authority",
 "Source": "Grok",
@@ -891,10 +891,10 @@
 "EndYR": null,
 "LocationIDs": [149],
 "TypeIDs": [61],
-"Capacity": ""
-"SWCoID": [3600],
-"SWNote": "Level 4 stack - co developed with Oxa?"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3600],
+"SWNote": "Level 4 stack - co developed with Oxa?”,
+“Open": false,
 "OrganisationIDs": [3222],
 "Status": "Pilot trials completed",
 "Source": "ChatGPT",
@@ -909,10 +909,10 @@
 "EndYR": null,
 "LocationIDs": [122],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2373],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2373],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2373, 2484],
 "Status": "Operational trials since 2023 scaling in 2025",
 "Source": "Grok",
@@ -927,10 +927,10 @@
 "EndYR": null,
 "LocationIDs": [173, 122, 179, 263, 146, 149, 230],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2391],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2391],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2412, 2964, 2958, 2961, 2391],
 "Status": "Active in teleops support for AV deployments",
 "Source": "ChatGPT",
@@ -945,10 +945,10 @@
 "EndYR": null,
 "LocationIDs": [257],
 "TypeIDs": [11, 21],
-"Capacity": ""
-"SWCoID": [2322],
-"SWNote": "Next Future Transportation"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2322],
+"SWNote": "Next Future Transportation”,
+“Open": false,
 "OrganisationIDs": [2394, 2874, 2322],
 "Status": "Pods in Dubai Silicon Oasis; 5 taxis operational since 2023",
 "Source": "Grok",
@@ -963,10 +963,10 @@
 "EndYR": null,
 "LocationIDs": [257, 113],
 "TypeIDs": [11],
-"Capacity": "10-12"
-"SWCoID": [2397],
-"SWNote": ""
-"Open": false,
+"Capacity": "10-12”,
+“SWCoID": [2397],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2397, 2679, 3249, 2961, 2955, 2400, 2394],
 "Status": "Ongoing since 2016, trials in universities and urban areas. See Localiza EasyMile Pilot for São Paulo-specific trial started August 2025.",
 "Source": "Grok, ChatGPT, Perplexity",
@@ -981,10 +981,10 @@
 "EndYR": null,
 "LocationIDs": [119],
 "TypeIDs": [11],
-"Capacity": "10-12"
-"SWCoID": [2397],
-"SWNote": ""
-"Open": false,
+"Capacity": "10-12”,
+“SWCoID": [2397],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2397, 2619, 2961],
 "Status": "Pilot trials ongoing since 2023",
 "Source": "Grok",
@@ -999,10 +999,10 @@
 "EndYR": null,
 "LocationIDs": [122, 257],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2409],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2409],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2409, 2253, 2502],
 "Status": "Operational in China since 2020/2023, Middle East trials since 2024.",
 "Source": "Grok",
@@ -1017,10 +1017,10 @@
 "EndYR": null,
 "LocationIDs": [245, 149, 110, 263],
 "TypeIDs": [51],
-"Capacity": ""
-"SWCoID": [2412],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2412],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2412, 2496, 2766],
 "Status": "Active in logistics hubs; Commercial pilots; remote-operated",
 "Source": "ChatGPT",
@@ -1035,10 +1035,10 @@
 "EndYR": 1995,
 "LocationIDs": [149],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2043, 2046, 2016, 2196, 2223, 2232, 2238, 2244, 2277, 2286, 2460, 2499, 2592, 2586, 2631, 2778, 2787, 2793, 2820, 2901, 2937, 2982, 2985, 2994, 3054, 3111, 3159, 3165, 3285, 3510, 3516],
 "Status": "Project ran from 1987 to 1995. In 1994, their twin robot vehicles VaMP and VITA-2 drove more than 1,000 kilometres (620 mi) on a Paris multi-lane highway in standard heavy traffic at speeds up to 130 kilometres per hour (81 mph). They demonstrated autonomous driving in free lanes, convoy driving, automatic tracking of other vehicles, and lane changes left and right with autonomous passing of other cars. >600 participants.",
 "Source": "Grok",
@@ -1053,10 +1053,10 @@
 "EndYR": null,
 "LocationIDs": [179],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2154],
-"SWNote": "Autoware"
-"Open": true,
+"Capacity": "“,
+“SWCoID": [2154],
+"SWNote": "Autoware”,
+“Open": true,
 "OrganisationIDs": [3576, 3288, 2958],
 "Status": "Operational since 2020, expanded deployments in 2024-2025",
 "Source": "Grok",
@@ -1071,10 +1071,10 @@
 "EndYR": 2021,
 "LocationIDs": [143, 206, 209, 140, 155],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [3150],
-"SWNote": "Autoware"
-"Open": true,
+"Capacity": "“,
+“SWCoID": [3150],
+"SWNote": "Autoware”,
+“Open": true,
 "OrganisationIDs": [3150, 2853, 2013, 2958, 2400, 2475],
 "Status": "Completed (2018-2021), some services ongoing",
 "Source": "Grok, ChatGPT",
@@ -1089,10 +1089,10 @@
 "EndYR": 1992,
 "LocationIDs": [260],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Fictional, depicted in 'Harry Potter and the Chamber of Secrets' (2002 film) magical (Arthur Weasley)",
 "Source": "Grok",
@@ -1107,10 +1107,10 @@
 "EndYR": null,
 "LocationIDs": [122],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2484],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2484],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2373],
 "Status": "Operational since 2023; 200+ robotaxis in Guangzhou, scaling in 2025",
 "Source": "Grok",
@@ -1125,10 +1125,10 @@
 "EndYR": null,
 "LocationIDs": [230],
 "TypeIDs": [11],
-"Capacity": "10"
-"SWCoID": [2853],
-"SWNote": ""
-"Open": false,
+"Capacity": "10”,
+“SWCoID": [2853],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3201, 2853, 3555, 2268],
 "Status": "Operational since Oct 2019",
 "Source": "ChatGPT",
@@ -1143,10 +1143,10 @@
 "EndYR": null,
 "LocationIDs": [263, 116],
 "TypeIDs": [51],
-"Capacity": ""
-"SWCoID": [2490],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2490],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2490, 3522, 2739],
 "Status": "Operational since 2022, over 500,000 km driven",
 "Source": "ChatGPT",
@@ -1161,10 +1161,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2493],
 "Status": "Conceptual fictional depiction in \"Gattaca\" film (1997)",
 "Source": "Grok",
@@ -1179,10 +1179,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [11],
-"Capacity": "6-8"
-"SWCoID": [2130],
-"SWNote": ""
-"Open": false,
+"Capacity": "6-8”,
+“SWCoID": [2130],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2130, 2529, 3204, 2607],
 "Status": "Pilot trials ongoing since 2024, expanding in 2025",
 "Source": "Grok",
@@ -1197,10 +1197,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2514],
-"SWNote": "end-to-end AI"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2514],
+"SWNote": "end-to-end AI”,
+“Open": false,
 "OrganisationIDs": [2514, 3297, 2223],
 "Status": "Ongoing trials since 2023; focused on consumer vehicle ADAS, planned expansion in 2025",
 "Source": "Grok",
@@ -1215,10 +1215,10 @@
 "EndYR": 1956,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": "Highway Control System proprietary"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "Highway Control System proprietary”,
+“Open": false,
 "OrganisationIDs": [2505],
 "Status": "Conceptual, demonstrated at 1956 Motorama; precursor to modern Avs",
 "Source": "Grok",
@@ -1233,10 +1233,10 @@
 "EndYR": 1939,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": "Custom radio-based control system"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "Custom radio-based control system”,
+“Open": false,
 "OrganisationIDs": [2505],
 "Status": "Conceptual, exhibited at 1939 New York World’s Fair.",
 "Source": "Perplexity, Grok",
@@ -1251,10 +1251,10 @@
 "EndYR": 2016,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2526],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2526],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2526],
 "Status": "Completed 2016 (trials 2009-2016), transitioned to Waymo",
 "Source": "Grok",
@@ -1269,10 +1269,10 @@
 "EndYR": null,
 "LocationIDs": [122],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2190],
-"SWNote": "Pony.ai, Apollo Go"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2190],
+"SWNote": "Pony.ai, Apollo Go”,
+“Open": false,
 "OrganisationIDs": [2190, 3006],
 "Status": "Operational, 525,000 trips by June 2024",
 "Source": "Grok",
@@ -1287,10 +1287,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2541],
-"SWNote": "Harper Adams"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2541],
+"SWNote": "Harper Adams”,
+“Open": false,
 "OrganisationIDs": [2541, 2607],
 "Status": "Ongoing, public demos on BBC Countryfile",
 "Source": "Grok",
@@ -1305,10 +1305,10 @@
 "EndYR": null,
 "LocationIDs": [236],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2004],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2004],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2538, 2004],
 "Status": "Ongoing, campus-based trials",
 "Source": "Grok",
@@ -1323,10 +1323,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2343],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2343],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2343, 2166, 2424, 3348, 3426],
 "Status": "Ongoing as of 2024",
 "Source": "Grok",
@@ -1341,10 +1341,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [3351],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3351],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2181],
 "Status": "In operation since 2011",
 "Source": "ChatGPT",
@@ -1359,10 +1359,10 @@
 "EndYR": null,
 "LocationIDs": [155],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Homer's Iliad divine automation",
 "Source": "Grok",
@@ -1377,10 +1377,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3510],
 "Status": "Fictional sentient AI-like personality",
 "Source": "Grok",
@@ -1395,10 +1395,10 @@
 "EndYR": null,
 "LocationIDs": [104],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2565],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2565],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2565],
 "Status": "Launched January 2024, Level 3 autonomous sedan",
 "Source": "Grok",
@@ -1413,10 +1413,10 @@
 "EndYR": 1927,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": "Custom radio control system"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "Custom radio control system”,
+“Open": false,
 "OrganisationIDs": [3033],
 "Status": "Public demonstrations 1925-1927; early precursor to AVs",
 "Source": "Perplexity, Grok",
@@ -1431,10 +1431,10 @@
 "EndYR": null,
 "LocationIDs": [236],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2829],
-"SWNote": "Motional"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2829],
+"SWNote": "Motional”,
+“Open": false,
 "OrganisationIDs": [2580, 2829],
 "Status": "Launched June 2023, ongoing commercial service",
 "Source": "Grok",
@@ -1449,10 +1449,10 @@
 "EndYR": 2004,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2124],
 "Status": "Fictional, depicted in 'I, Robot' (2004)",
 "Source": "Grok",
@@ -1467,10 +1467,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": "VIKI"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "VIKI”,
+“Open": false,
 "OrganisationIDs": [3360],
 "Status": "Fictional (2004 film, inspired by Isaac Asimov)",
 "Source": "",
@@ -1485,10 +1485,10 @@
 "EndYR": null,
 "LocationIDs": [122],
 "TypeIDs": [51],
-"Capacity": ""
-"SWCoID": [2598],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2598],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2598, 3609],
 "Status": "Operational, 400 trucks delivered in 2024",
 "Source": "Grok",
@@ -1503,10 +1503,10 @@
 "EndYR": null,
 "LocationIDs": [122],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2133],
-"SWNote": "Autoware"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2133],
+"SWNote": "Autoware”,
+“Open": false,
 "OrganisationIDs": [2643],
 "Status": "Operational, testing in Yizhuang for logistics",
 "Source": "Grok",
@@ -1521,10 +1521,10 @@
 "EndYR": null,
 "LocationIDs": [263, 257],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2652],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2652],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2652, 2451, 2502],
 "Status": "Trials since 2024 commercial service planned for 2026",
 "Source": "ChatGPT, Grok",
@@ -1539,10 +1539,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [31],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2463],
 "Status": "Conceptual, fictional depiction in \"Total Recall\" film (1990)",
 "Source": "Grok",
@@ -1557,10 +1557,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2655],
-"SWNote": "AI/robotics"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2655],
+"SWNote": "AI/robotics”,
+“Open": false,
 "OrganisationIDs": [2655],
 "Status": "Pilot testing since 2024, ongoing at Detroit Smart Parking Lab.",
 "Source": "Perplexity",
@@ -1575,10 +1575,10 @@
 "EndYR": null,
 "LocationIDs": [251],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2010],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2010],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2670, 2010],
 "Status": "Ongoing, public trials in designated areas",
 "Source": "Grok",
@@ -1593,10 +1593,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [61],
-"Capacity": ""
-"SWCoID": [2022],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2022],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2022],
 "Status": "Completed trials, planning further rollout",
 "Source": "ChatGPT",
@@ -1611,10 +1611,10 @@
 "EndYR": 1974,
 "LocationIDs": [263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Fictional construction company 1974 TV Movie",
 "Source": "Grok",
@@ -1629,10 +1629,10 @@
 "EndYR": null,
 "LocationIDs": [149],
 "TypeIDs": [21],
-"Capacity": "6"
-"SWCoID": [2811],
-"SWNote": "Level 4 stack"
-"Open": false,
+"Capacity": "6”,
+“SWCoID": [2811],
+"SWNote": "Level 4 stack”,
+“Open": false,
 "OrganisationIDs": [2346, 3075, 2811, 2376, 2691, 3492],
 "Status": "Ongoing until end 2025",
 "Source": "ChatGPT",
@@ -1647,10 +1647,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": "KITT AI"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "KITT AI”,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Iconic 1980s TV show car, fully autonomous and conversational.",
 "Source": "Perplexity",
@@ -1665,10 +1665,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [51],
-"Capacity": ""
-"SWCoID": [2694],
-"SWNote": "TuSimple"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2694],
+"SWNote": "TuSimple”,
+“Open": false,
 "OrganisationIDs": [2694, 3327, 3480, 3471],
 "Status": "Pilot and commercial logistics",
 "Source": "ChatGPT, Grok",
@@ -1683,10 +1683,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [51],
-"Capacity": ""
-"SWCoID": [2694],
-"SWNote": "Kodiak"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2694],
+"SWNote": "Kodiak”,
+“Open": false,
 "OrganisationIDs": [2694, 3108, 2988],
 "Status": "Commercial pilot with safety drivers since 2024",
 "Source": "Grok",
@@ -1701,10 +1701,10 @@
 "EndYR": 2022,
 "LocationIDs": [263, 104, 176, 227, 149, 134, 116],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2742],
-"SWNote": "Local Motors/partners"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2742],
+"SWNote": "Local Motors/partners”,
+“Open": false,
 "OrganisationIDs": [2742],
 "Status": "Local Motors closed 2022; vehicles still in use",
 "Source": "Perplexity, ChatGPT",
@@ -1719,10 +1719,10 @@
 "EndYR": null,
 "LocationIDs": [113],
 "TypeIDs": [11],
-"Capacity": "10-12"
-"SWCoID": [2397],
-"SWNote": "EasyMile"
-"Open": false,
+"Capacity": "10-12”,
+“SWCoID": [2397],
+"SWNote": "EasyMile”,
+“Open": false,
 "OrganisationIDs": [2745, 2397, 2961],
 "Status": "Pilot trials ongoing since August 2025",
 "Source": "Grok",
@@ -1737,10 +1737,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Fictional (domed city authority)",
 "Source": "Grok",
@@ -1755,10 +1755,10 @@
 "EndYR": 2015,
 "LocationIDs": [260],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2970],
-"SWNote": "Universal Autonomy"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2970],
+"SWNote": "Universal Autonomy”,
+“Open": false,
 "OrganisationIDs": [2607, 3309, 2970, 3411],
 "Status": "",
 "Source": "Grok",
@@ -1773,10 +1773,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Fictional (Speed Racer)",
 "Source": "Speed Racer",
@@ -1791,10 +1791,10 @@
 "EndYR": null,
 "LocationIDs": [116],
 "TypeIDs": [61],
-"Capacity": ""
-"SWCoID": [2769],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2769],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2769],
 "Status": "Pilot testing in Ontario since 2024; last-mile delivery focus",
 "Source": "Grok",
@@ -1809,10 +1809,10 @@
 "EndYR": null,
 "LocationIDs": [164],
 "TypeIDs": [61],
-"Capacity": ""
-"SWCoID": [2772],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2772],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2772, 2958],
 "Status": "Pilot trials ongoing since July 2025",
 "Source": "Grok",
@@ -1827,10 +1827,10 @@
 "EndYR": 1986,
 "LocationIDs": [263],
 "TypeIDs": [21, 51],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Fictional Alien influence (Stephen King 1986)",
 "Source": "Grok",
@@ -1845,10 +1845,10 @@
 "EndYR": null,
 "LocationIDs": [263, 179],
 "TypeIDs": [11],
-"Capacity": "30"
-"SWCoID": [2781],
-"SWNote": ""
-"Open": false,
+"Capacity": "30”,
+“SWCoID": [2781],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2781, 2961, 2910, 2757, 3183, 3297],
 "Status": "Operational, expanding bus tech to USA and Japan",
 "Source": "ChatGPT, Claude",
@@ -1863,10 +1863,10 @@
 "EndYR": null,
 "LocationIDs": [149, 263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2793],
-"SWNote": "Mercedes-Benz"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2793],
+"SWNote": "Mercedes-Benz”,
+“Open": false,
 "OrganisationIDs": [2793],
 "Status": "Commercially available Level 3 system in Germany & California",
 "Source": "ChatGPT",
@@ -1881,10 +1881,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": "Central control "
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "Central control “,
+“Open": false,
 "OrganisationIDs": [2727],
 "Status": "Fictional (2002, based on Philip K. Dick's 1956 short story) Lexus PreCrime authority)",
 "Source": "Grok",
@@ -1899,10 +1899,10 @@
 "EndYR": null,
 "LocationIDs": [149],
 "TypeIDs": [61],
-"Capacity": ""
-"SWCoID": [2811],
-"SWNote": "Level 4 stack"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2811],
+"SWNote": "Level 4 stack”,
+“Open": false,
 "OrganisationIDs": [3510, 2814, 2811],
 "Status": "Ongoing early testing",
 "Source": "ChatGPT, Grok",
@@ -1917,10 +1917,10 @@
 "EndYR": null,
 "LocationIDs": [230],
 "TypeIDs": [11],
-"Capacity": "13"
-"SWCoID": [2823],
-"SWNote": ""
-"Open": false,
+"Capacity": "13”,
+“SWCoID": [2823],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2823, 2877, 2748],
 "Status": "Campus shuttle pilot operational",
 "Source": "ChatGPT",
@@ -1935,10 +1935,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [31],
-"Capacity": ""
-"SWCoID": [2829],
-"SWNote": "Aptiv/Hyundai JV"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2829],
+"SWNote": "Aptiv/Hyundai JV”,
+“Open": false,
 "OrganisationIDs": [2580, 2757, 3336],
 "Status": "Operating with safety drivers; driverless trials ongoing",
 "Source": "ChatGPT",
@@ -1953,10 +1953,10 @@
 "EndYR": null,
 "LocationIDs": [146, 248, 149, 230, 134, 107, 245, 263, 257, 203, 176],
 "TypeIDs": [11],
-"Capacity": "15"
-"SWCoID": [2853],
-"SWNote": ""
-"Open": false,
+"Capacity": "15”,
+“SWCoID": [2853],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2853, 2679, 3012, 2847, 2661, 2898, 3261, 3429, 2733, 2715, 2298, 2961],
 "Status": "Ongoing since 2016 in Europe, Singapore; Show Project (2020-2023), some services ongoing, Ongoing US/M.East pilots and public deployments. Pilot trials in Lagos ongoing since 2023",
 "Source": "Grok, ChatGPT, Perplexity",
@@ -1971,10 +1971,10 @@
 "EndYR": null,
 "LocationIDs": [122, 257, 227],
 "TypeIDs": [61],
-"Capacity": ""
-"SWCoID": [2865],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2865],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2865, 2067],
 "Status": "Operational in China since 2020/2023, Middle East trials since 2024.",
 "Source": "Grok",
@@ -1989,10 +1989,10 @@
 "EndYR": null,
 "LocationIDs": [179],
 "TypeIDs": [31, 11],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Conceptual, fictional depiction in \\"Neuromancer\\" (1984)",
 "Source": "Grok",
@@ -2007,10 +2007,10 @@
 "EndYR": null,
 "LocationIDs": [173, 263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2871],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2871],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2871, 2958],
 "Status": "Pilot trials ongoing since 2025",
 "Source": "Grok",
@@ -2025,10 +2025,10 @@
 "EndYR": null,
 "LocationIDs": [122, 206, 149],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2889],
-"SWNote": "NAD proprietary"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2889],
+"SWNote": "NAD proprietary”,
+“Open": false,
 "OrganisationIDs": [2889, 2811],
 "Status": "Operational Level 3 trials in China since 2023, Europe trials planned for 2025",
 "Source": "Grok",
@@ -2043,10 +2043,10 @@
 "EndYR": null,
 "LocationIDs": [179],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2892],
-"SWNote": "Nissan"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2892],
+"SWNote": "Nissan”,
+“Open": false,
 "OrganisationIDs": [2892, 2367],
 "Status": "Launched November 2023, ongoing for last-mile logistics",
 "Source": "Grok",
@@ -2061,10 +2061,10 @@
 "EndYR": null,
 "LocationIDs": [230],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [3516],
-"SWNote": "Volvo-NTU AI stack"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3516],
+"SWNote": "Volvo-NTU AI stack”,
+“Open": false,
 "OrganisationIDs": [3519, 2847, 3174, 2748],
 "Status": "Campus trials since 2019",
 "Source": "ChatGPT",
@@ -2079,10 +2079,10 @@
 "EndYR": null,
 "LocationIDs": [263, 113],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2913],
-"SWNote": "Nuro"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2913],
+"SWNote": "Nuro”,
+“Open": false,
 "OrganisationIDs": [2913, 2700, 2958, 2880, 2274],
 "Status": "Commercial trials since 2018, operational since 2021, Level 4 approved in Palo Alto. Pilot trials in Brazil ongoing since 2024",
 "Source": "ChatGPT, Grok",
@@ -2097,10 +2097,10 @@
 "EndYR": 1969,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": "Custom wire-guided control system"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "Custom wire-guided control system”,
+“Open": false,
 "OrganisationIDs": [2931, 2505],
 "Status": "Completed 1969; early wire-guided AV experiments on test tracks",
 "Source": "Grok",
@@ -2115,10 +2115,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [21, 61, 41],
-"Capacity": ""
-"SWCoID": [2970],
-"SWNote": "Universal Autonomy, Oxa Driver"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2970],
+"SWNote": "Universal Autonomy, Oxa Driver”,
+“Open": false,
 "OrganisationIDs": [2970, 2370, 3312, 2448, 2241, 2568, 3204, 3225, 2868, 2544, 2583, 2283],
 "Status": "Endeavour completed 2021; Harlander launching 2025; SAMS in progress; Heathrow operational since 2019",
 "Source": "Grok, ChatGPT",
@@ -2133,10 +2133,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [11],
-"Capacity": "6-8"
-"SWCoID": [2970],
-"SWNote": "Universal Autonomy, Oxa Driver"
-"Open": false,
+"Capacity": "6-8”,
+“SWCoID": [2970],
+"SWNote": "Universal Autonomy, Oxa Driver”,
+“Open": false,
 "OrganisationIDs": [2970, 2805, 2607, 2961],
 "Status": "Ongoing trials since 2023, expanding in 2025",
 "Source": "Grok",
@@ -2151,10 +2151,10 @@
 "EndYR": null,
 "LocationIDs": [263, 209],
 "TypeIDs": [11, 61],
-"Capacity": ""
-"SWCoID": [2970],
-"SWNote": "Universal Autonomy, Oxa Driver"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2970],
+"SWNote": "Universal Autonomy, Oxa Driver”,
+“Open": false,
 "OrganisationIDs": [2970, 2199, 2736, 2961],
 "Status": "Ongoing trials since 2024, expanding in 2025. Lisbon Pilot trials ongoing since July 2025",
 "Source": "Grok",
@@ -2169,10 +2169,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2970],
-"SWNote": "Universal Autonomy"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2970],
+"SWNote": "Universal Autonomy”,
+“Open": false,
 "OrganisationIDs": [2970, 2544, 2583],
 "Status": "Operational since 2022",
 "Source": "Grok",
@@ -2187,10 +2187,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2130],
-"SWNote": "Aurrigo"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2130],
+"SWNote": "Aurrigo”,
+“Open": false,
 "OrganisationIDs": [3465, 2961],
 "Status": "Ongoing, research and public engagement",
 "Source": "Grok",
@@ -2205,10 +2205,10 @@
 "EndYR": null,
 "LocationIDs": [122, 260, 263, 242, 179, 164, 248, 149, 146, 197, 236],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2991],
-"SWNote": "Autoware"
-"Open": true,
+"Capacity": "“,
+“SWCoID": [2991],
+"SWNote": "Autoware”,
+“Open": true,
 "OrganisationIDs": [2991],
 "Status": "PIX RoboBus shuttles are currently licensed for public road testing and operation in Turin, Italy, and Guiyang, China",
 "Source": "Perplexity",
@@ -2223,10 +2223,10 @@
 "EndYR": null,
 "LocationIDs": [263, 122],
 "TypeIDs": [51],
-"Capacity": ""
-"SWCoID": [2997],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2997],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2454, 2637],
 "Status": "Commercial pilots for L2+/L4 freight trucking",
 "Source": "ChatGPT",
@@ -2241,10 +2241,10 @@
 "EndYR": null,
 "LocationIDs": [122, 185],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [3006],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3006],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3006, 3297, 2394],
 "Status": "Operational, 300 robotaxis (2024), targeting 1,000 by 2026; Luxembourg trials in planning",
 "Source": "Grok",
@@ -2259,10 +2259,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [11],
-"Capacity": "14"
-"SWCoID": [2979],
-"SWNote": ""
-"Open": false,
+"Capacity": "14”,
+“SWCoID": [2979],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2979, 3009],
 "Status": "Completed pilot (timeline unclear), ran at Newark Liberty International Airport",
 "Source": "ChatGPT, Grok",
@@ -2277,10 +2277,10 @@
 "EndYR": 2022,
 "LocationIDs": [149],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2154],
-"SWNote": "Autoware"
-"Open": true,
+"Capacity": "“,
+“SWCoID": [2154],
+"SWNote": "Autoware”,
+“Open": true,
 "OrganisationIDs": [3270, 2457],
 "Status": "ANTON was an exploratory project in the frame of the research project SAFIR funded by the Federal Ministry of Education and Research (BMBF) from August of 2020 until October of 2022.",
 "Source": "Grok",
@@ -2295,10 +2295,10 @@
 "EndYR": 2021,
 "LocationIDs": [260],
 "TypeIDs": [21, 61],
-"Capacity": ""
-"SWCoID": [3219],
-"SWNote": "Autoware"
-"Open": true,
+"Capacity": "“,
+“SWCoID": [3219],
+"SWNote": "Autoware”,
+“Open": true,
 "OrganisationIDs": [3219, 2922, 2535],
 "Status": "Completed 2021 (trials 2018-2021)",
 "Source": "Grok",
@@ -2313,10 +2313,10 @@
 "EndYR": null,
 "LocationIDs": [257],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3264, 3000, 2313, 2394],
 "Status": "Ongoing since 2024, multi-car races in 2025",
 "Source": "Grok",
@@ -2331,10 +2331,10 @@
 "EndYR": null,
 "LocationIDs": [260, 263, 242, 176, 107, 161, 197, 131, 125, 218],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2169, 2775, 2088, 2649, 3042, 2184, 2625, 3600],
 "Status": "Ongoing global competitions since 2017, active in 2025",
 "Source": "Grok",
@@ -2349,10 +2349,10 @@
 "EndYR": null,
 "LocationIDs": [263, 176],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3264, 3000, 2313, 2394, 3000, 3357, 2313, 3192],
 "Status": "Ongoing since 2021, 2025 events include record-breaking lap at Modena",
 "Source": "Grok",
@@ -2367,10 +2367,10 @@
 "EndYR": 2022,
 "LocationIDs": [260, 242, 146, 149, 101, 194, 263, 116, 158, 176],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3081],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3081],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3081, 2115, 3264, 3000, 2313, 2394, 3420, 2028],
 "Status": "Public events 2016-2021; revived for virtual/physical events in 2025 (e.g. ICRA 2025)",
 "Source": "Grok",
@@ -2385,10 +2385,10 @@
 "EndYR": null,
 "LocationIDs": [218, 263, 179, 260, 149, 245, 122, 104, 236, 257],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3084, 3207, 2955],
 "Status": "Ongoing since 2016. 2025 events include ICRA Grand Prix",
 "Source": "Grok",
@@ -2403,10 +2403,10 @@
 "EndYR": 1953,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [3219],
-"SWNote": "Radio-based control system"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3219],
+"SWNote": "Radio-based control system”,
+“Open": false,
 "OrganisationIDs": [3036],
 "Status": "Demonstrated 1953; early radio-controlled AV prototype",
 "Source": "Grok",
@@ -2421,10 +2421,10 @@
 "EndYR": null,
 "LocationIDs": [173, 260],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3045],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3045],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3045, 2772],
 "Status": "Testing in Israel and UK since 2023; L4 modular platforms for logistics and shuttles",
 "Source": "Grok",
@@ -2439,10 +2439,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3048],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3048],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3048, 2379],
 "Status": "Operational in US cities since 2021, expanding in 2025",
 "Source": "Grok",
@@ -2457,10 +2457,10 @@
 "EndYR": null,
 "LocationIDs": [236],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [3063],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3063],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3063, 2646],
 "Status": "Operational, 38 km paid service between Jeju Airport and Jungmun",
 "Source": "Grok",
@@ -2475,10 +2475,10 @@
 "EndYR": null,
 "LocationIDs": [122],
 "TypeIDs": [61],
-"Capacity": ""
-"SWCoID": [3066],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3066],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3066],
 "Status": "Operational, 500+ vans for last-mile logistics",
 "Source": "Grok",
@@ -2493,10 +2493,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "First described in 1928 sci-fi story \\"The Living Machine\\" by David H. Keller.",
 "Source": "Perplexity",
@@ -2511,10 +2511,10 @@
 "EndYR": null,
 "LocationIDs": [236],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2580],
-"SWNote": "AIRS Co."
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2580],
+"SWNote": "AIRS Co.”,
+“Open": false,
 "OrganisationIDs": [2580, 2058, 2961],
 "Status": "Pilot underway since Aug 2025",
 "Source": "ChatGPT",
@@ -2529,10 +2529,10 @@
 "EndYR": null,
 "LocationIDs": [122],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [3120],
-"SWNote": "SAIC AI Lab"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3120],
+"SWNote": "SAIC AI Lab”,
+“Open": false,
 "OrganisationIDs": [3120],
 "Status": "Demonstration since 2021, ~100 vehicles, unmanned approved 2024",
 "Source": "Grok",
@@ -2547,10 +2547,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Conceptual",
 "Source": "Grok",
@@ -2565,10 +2565,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [61],
-"Capacity": ""
-"SWCoID": [2970],
-"SWNote": "Oxa Driver"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2970],
+"SWNote": "Oxa Driver”,
+“Open": false,
 "OrganisationIDs": [2970, 3204, 3225, 2868],
 "Status": "In progress (2024-2025)",
 "Source": "ChatGPT",
@@ -2583,10 +2583,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [11],
-"Capacity": "20"
-"SWCoID": [2934],
-"SWNote": ""
-"Open": false,
+"Capacity": "20”,
+“SWCoID": [2934],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2934, 2283, 3282, 2859, 3564, 3597, 3186],
 "Status": "Trial through Mar 2025",
 "Source": "ChatGPT, Grok",
@@ -2601,10 +2601,10 @@
 "EndYR": null,
 "LocationIDs": [167],
 "TypeIDs": [11],
-"Capacity": "8-10"
-"SWCoID": [3150],
-"SWNote": ""
-"Open": false,
+"Capacity": "8-10”,
+“SWCoID": [3150],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3150, 3363, 2961],
 "Status": "Pilot trials ongoing since May 2025",
 "Source": "Grok",
@@ -2619,10 +2619,10 @@
 "EndYR": null,
 "LocationIDs": [236],
 "TypeIDs": [21, 11],
-"Capacity": ""
-"SWCoID": [2685],
-"SWNote": "KG, SWM, Kakao Mobility"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2685],
+"SWNote": "KG, SWM, Kakao Mobility”,
+“Open": false,
 "OrganisationIDs": [2667],
 "Status": "Operational, Level 3 vehicles, aiming for Level 4 by 2027",
 "Source": "Grok",
@@ -2637,10 +2637,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3156],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3156],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3156, 3339, 2007],
 "Status": "Operational since 2021; expanded to 10+ US cities by 2025, 1,000+ robots",
 "Source": "Grok",
@@ -2655,10 +2655,10 @@
 "EndYR": null,
 "LocationIDs": [230],
 "TypeIDs": [11],
-"Capacity": "16"
-"SWCoID": [3258],
-"SWNote": "likely ST Kinetics"
-"Open": false,
+"Capacity": "16”,
+“SWCoID": [3258],
+"SWNote": "likely ST Kinetics”,
+“Open": false,
 "OrganisationIDs": [3141, 2748],
 "Status": "Planned pilots from 24-2025 and mid-2026",
 "Source": "ChatGPT",
@@ -2673,10 +2673,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3171],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3171],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3171],
 "Status": "Pilot farms and trials",
 "Source": "ChatGPT",
@@ -2691,10 +2691,10 @@
 "EndYR": 1983,
 "LocationIDs": [263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3207],
-"SWNote": "Stanford AI Lab proprietary"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3207],
+"SWNote": "Stanford AI Lab proprietary”,
+“Open": false,
 "OrganisationIDs": [3207],
 "Status": "Completed 1983; early AV research platform with vision-based navigation",
 "Source": "Grok",
@@ -2709,10 +2709,10 @@
 "EndYR": null,
 "LocationIDs": [260, 263, 149, 143, 140, 134, 248],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3210],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3210],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3210, 3099],
 "Status": "Operational in multiple locations. Rwanda pilot trials started 2024, ongoing",
 "Source": "ChatGPT, Perplexity",
@@ -2727,10 +2727,10 @@
 "EndYR": null,
 "LocationIDs": [239],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": "Proprietary Droid AI"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "Proprietary Droid AI”,
+“Open": false,
 "OrganisationIDs": [2463],
 "Status": "Fictional,  ongoing in Star Wars franchise",
 "Source": "Grok",
@@ -2745,10 +2745,10 @@
 "EndYR": null,
 "LocationIDs": [233],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2325],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2325],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3216, 2325, 2958],
 "Status": "Ongoing trials since 2022, campus-based",
 "Source": "Grok",
@@ -2763,10 +2763,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3219],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3219],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2904, 3219, 3489, 2892, 2901, 2868, 2082],
 "Status": "Ongoing, focused on private estates and logistics",
 "Source": "Grok, ChatGPT",
@@ -2781,10 +2781,10 @@
 "EndYR": null,
 "LocationIDs": [251],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2010],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2010],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3243, 2955],
 "Status": "Ongoing since 2017",
 "Source": "Grok",
@@ -2799,10 +2799,10 @@
 "EndYR": 2020,
 "LocationIDs": [251],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2658],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2658],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2658, 3246],
 "Status": "Trial phase completed 2020",
 "Source": "Grok",
@@ -2817,10 +2817,10 @@
 "EndYR": null,
 "LocationIDs": [164],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [3255],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3255],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3255, 2772],
 "Status": "Trials since 2023 for IT campuses",
 "Source": "ChatGPT",
@@ -2835,10 +2835,10 @@
 "EndYR": null,
 "LocationIDs": [149, 185, 146],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2853],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2853],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2961, 2439],
 "Status": "Cross-border pilot",
 "Source": "ChatGPT",
@@ -2853,10 +2853,10 @@
 "EndYR": null,
 "LocationIDs": [263, 227, 116, 191, 122, 212, 122, 242, 176, 146, 197, 149, 104, 206, 200, 188, 173],
 "TypeIDs": [21, 61],
-"Capacity": ""
-"SWCoID": [3273],
-"SWNote": "FSD"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3273],
+"SWNote": "FSD”,
+“Open": false,
 "OrganisationIDs": [3273, 3135],
 "Status": "Austin robotaxi pilot launched June 2025 (geofenced, L2+ supervised, timeline tentative); Saudi pilot planned 2025-2026 (tentative); Cybercab production planned for 2026.",
 "Source": "ChatGPT, Grok, Perplexity",
@@ -2871,10 +2871,10 @@
 "EndYR": 1977,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [2472],
 "Status": "Fictional Elliot Silverstein 1977 Lincoln Continental",
 "Source": "Grok",
@@ -2889,10 +2889,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Autonomous vehicles in \"The Roads Must Roll\" (1940) by Robert A. Heinlein.",
 "Source": "Perplexity",
@@ -2907,10 +2907,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [31],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Conceptual",
 "Source": "Grok",
@@ -2925,10 +2925,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [31],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Conceptual, fictional depiction in \"The Fifth Element\" film (1997)",
 "Source": "Grok",
@@ -2943,10 +2943,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Fcitional sentient beings on Sodro Railway",
 "Source": "Grok",
@@ -2961,10 +2961,10 @@
 "EndYR": null,
 "LocationIDs": [179, 245, 149],
 "TypeIDs": [21, 11],
-"Capacity": ""
-"SWCoID": [3288],
-"SWNote": "Autoware"
-"Open": true,
+"Capacity": "“,
+“SWCoID": [3288],
+"SWNote": "Autoware”,
+“Open": true,
 "OrganisationIDs": [3288, 2550, 3231, 2628, 2703, 3291],
 "Status": "Public demos in 2020, planned commercial service 2025",
 "Source": "Grok, ChatGPT",
@@ -2979,10 +2979,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [31],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Fictional (sentient AI-like personality) in Ladybird books",
 "Source": "Grok",
@@ -2997,10 +2997,10 @@
 "EndYR": null,
 "LocationIDs": [179],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [3297],
-"SWNote": "Toyota"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3297],
+"SWNote": "Toyota”,
+“Open": false,
 "OrganisationIDs": [3297],
 "Status": "Operated during Tokyo 2020 Olympics, Level 4 trials ongoing",
 "Source": "Grok",
@@ -3015,10 +3015,10 @@
 "EndYR": null,
 "LocationIDs": [104],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [2853],
-"SWNote": "Navya"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2853],
+"SWNote": "Navya”,
+“Open": false,
 "OrganisationIDs": [3303, 3306],
 "Status": "Ongoing since 2019, public trials in Olympic Park",
 "Source": "Grok",
@@ -3033,10 +3033,10 @@
 "EndYR": null,
 "LocationIDs": [137, 128],
 "TypeIDs": [21, 51],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [],
 "Status": "Fictional (Cybertronian AI) Autobots & Deecpticons",
 "Source": "Grok",
@@ -3051,10 +3051,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2463],
-"SWNote": "Master Control Program"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2463],
+"SWNote": "Master Control Program”,
+“Open": false,
 "OrganisationIDs": [2418],
 "Status": "Conceptual, fictional depiction in \"Tron\" film (1982)",
 "Source": "Grok",
@@ -3069,10 +3069,10 @@
 "EndYR": 1977,
 "LocationIDs": [179],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2958],
-"SWNote": "Custom computer-vision system"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2958],
+"SWNote": "Custom computer-vision system”,
+“Open": false,
 "OrganisationIDs": [3318],
 "Status": "Experimental, demonstrated in 1977; early computer-vision AV",
 "Source": "Perplexity",
@@ -3087,10 +3087,10 @@
 "EndYR": null,
 "LocationIDs": [251],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [3324],
-"SWNote": "Turing Drive"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3324],
+"SWNote": "Turing Drive”,
+“Open": false,
 "OrganisationIDs": [3324, 2961, 2958],
 "Status": "Bus trials since 2020; SPVs in development, mass production planned 2025",
 "Source": "Grok",
@@ -3105,10 +3105,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2172],
-"SWNote": "Avride"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2172],
+"SWNote": "Avride”,
+“Open": false,
 "OrganisationIDs": [3339, 2172],
 "Status": "Operational in 11 cities",
 "Source": "ChatGPT",
@@ -3123,10 +3123,10 @@
 "EndYR": null,
 "LocationIDs": [263, 257],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [3540],
-"SWNote": "Pony.ai (7th-gen), WeRide (L4)"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3540],
+"SWNote": "Pony.ai (7th-gen), WeRide (L4)”,
+“Open": false,
 "OrganisationIDs": [3336, 3006, 3540, 2394],
 "Status": "Launched in Abu Dhabi 2025 with safety drivers; driverless by 2025; Europe planned",
 "Source": "ChatGPT, Grok",
@@ -3141,10 +3141,10 @@
 "EndYR": null,
 "LocationIDs": [149, 146, 197, 245],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [2817],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2817],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3336, 2817, 2958],
 "Status": "Announced May 2025, deployment timeline unclear",
 "Source": "Grok",
@@ -3159,10 +3159,10 @@
 "EndYR": 2010,
 "LocationIDs": [176, 122],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [3507],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3507],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3414, 3507],
 "Status": "Completed 2010 (July-October 2010)",
 "Source": "Grok",
@@ -3177,10 +3177,10 @@
 "EndYR": null,
 "LocationIDs": [149, 230],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3513],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3513],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3513, 3168],
 "Status": "Trials since 2023, commercial service planned by 2026",
 "Source": "ChatGPT",
@@ -3195,10 +3195,10 @@
 "EndYR": null,
 "LocationIDs": [113],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [3516],
-"SWNote": "Volvo Autonomous Solutions"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3516],
+"SWNote": "Volvo Autonomous Solutions”,
+“Open": false,
 "OrganisationIDs": [3519, 3474, 2328],
 "Status": "Ongoing trials since 2023, planned commercial deployment by 2026",
 "Source": "Grok",
@@ -3213,10 +3213,10 @@
 "EndYR": null,
 "LocationIDs": [245, 263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3516],
-"SWNote": "Volvo Autonomous Solutions"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3516],
+"SWNote": "Volvo Autonomous Solutions”,
+“Open": false,
 "OrganisationIDs": [3519, 2229],
 "Status": "Ongoing trials since 2022, operational in select mining sites.",
 "Source": "Grok",
@@ -3231,10 +3231,10 @@
 "EndYR": null,
 "LocationIDs": [179],
 "TypeIDs": [31],
-"Capacity": ""
-"SWCoID": [3528],
-"SWNote": "Waymo Driver"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3528],
+"SWNote": "Waymo Driver”,
+“Open": false,
 "OrganisationIDs": [3528, 2886, 2520],
 "Status": "Testing started 2025, data collection for future service",
 "Source": "Grok",
@@ -3249,10 +3249,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [31],
-"Capacity": ""
-"SWCoID": [3528],
-"SWNote": "Waymo Driver"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3528],
+"SWNote": "Waymo Driver”,
+“Open": false,
 "OrganisationIDs": [3336, 3594, 2295, 2649],
 "Status": "Commercial since 2018, 250,000 trips/week in 2025, Ongoing commercial robotaxi service; 700+ vehicles, 15M+ miles driven. Delivering ~1 million rides/month in early 2025",
 "Source": "ChatGPT, Grok, Perplexity, Claude",
@@ -3267,10 +3267,10 @@
 "EndYR": null,
 "LocationIDs": [260],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [3528],
-"SWNote": "Waymo Driver end-to-end AI"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3528],
+"SWNote": "Waymo Driver end-to-end AI”,
+“Open": false,
 "OrganisationIDs": [3534, 2925, 2121],
 "Status": "Ongoing delivery trials on public roads",
 "Source": "ChatGPT",
@@ -3285,10 +3285,10 @@
 "EndYR": null,
 "LocationIDs": [122, 248, 230, 146, 242, 227, 215],
 "TypeIDs": [11],
-"Capacity": "8-10"
-"SWCoID": [3540],
-"SWNote": ""
-"Open": false,
+"Capacity": "8-10”,
+“SWCoID": [3540],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3540, 3336, 2862, 3060, 3054, 3057, 2205, 2760, 2193, 3612, 2484, 3132, 3021],
 "Status": "Robotaxi operational in Guangzhou, Abu Dhabi; Robobus live in Sentosa, trials in Valence/Barcelona/Zurich 2025, 400+ vehicles; Saudi Arabia pilot trials started June 2025, ongoing. Qatar pilot trials ongoing from September 2025",
 "Source": "Grok, ChatGPT, Perplexity",
@@ -3303,10 +3303,10 @@
 "EndYR": null,
 "LocationIDs": [122],
 "TypeIDs": [11],
-"Capacity": ""
-"SWCoID": [3546],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3546],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3546],
 "Status": "Ongoing",
 "Source": "ChatGPT",
@@ -3321,10 +3321,10 @@
 "EndYR": null,
 "LocationIDs": [179],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3549],
-"SWNote": "proprietary AI"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3549],
+"SWNote": "proprietary AI”,
+“Open": false,
 "OrganisationIDs": [3549, 2640],
 "Status": "Ongoing in airports and hospitals",
 "Source": "ChatGPT",
@@ -3339,10 +3339,10 @@
 "EndYR": null,
 "LocationIDs": [122, 263, 104, 200, 134, 146, 110],
 "TypeIDs": [51],
-"Capacity": ""
-"SWCoID": [3558],
-"SWNote": "L4-capable"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3558],
+"SWNote": "L4-capable”,
+“Open": false,
 "OrganisationIDs": [3558, 2085, 2553, 2349, 2523, 2682, 3354, 3096],
 "Status": "Operational in China since August 2024, global testing ongoing",
 "Source": "Grok",
@@ -3357,10 +3357,10 @@
 "EndYR": null,
 "LocationIDs": [122],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [3573],
-"SWNote": "XPILOT/NGP"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3573],
+"SWNote": "XPILOT/NGP”,
+“Open": false,
 "OrganisationIDs": [3573],
 "Status": "Operational Level 3/4 trials since 2023 expanding in 2025",
 "Source": "Grok",
@@ -3375,10 +3375,10 @@
 "EndYR": null,
 "LocationIDs": [221, 263],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3579],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3579],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3579],
 "Status": "Operational in Russia since 2020, US trials ongoing",
 "Source": "Grok",
@@ -3393,10 +3393,10 @@
 "EndYR": null,
 "LocationIDs": [221, 173],
 "TypeIDs": [21],
-"Capacity": ""
-"SWCoID": [3579],
-"SWNote": "Yandex Self-Driving Group"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3579],
+"SWNote": "Yandex Self-Driving Group”,
+“Open": false,
 "OrganisationIDs": [3579],
 "Status": "Commercial pilots, 100+ vehicles, public rides since 2018",
 "Source": "ChatGPT, Perplexity",
@@ -3411,10 +3411,10 @@
 "EndYR": null,
 "LocationIDs": [206],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [2697],
-"SWNote": "Kongsberg Maritime autonomous navigation and control systems"
-"Open": false,
+"Capacity": "“,
+“SWCoID": [2697],
+"SWNote": "Kongsberg Maritime autonomous navigation and control systems”,
+“Open": false,
 "OrganisationIDs": [2697, 3582],
 "Status": "As of May 2025, the Yara Birkeland, the world’s first fully electric and autonomous container ship, has been in commercial operation for three years since starting in spring 2022. Operated by Yara International, the vessel has completed over 250 voyages, transporting more than 35,000 containers between Yara’s production facility in Porsgrunn and the Port of Brevik in Norway. It has replaced approximately 35,000 diesel-powered truck journeys, reducing CO₂ emissions by 1,000 tonnes annually and decreasing noise and dust in populated areas.",
 "Source": "ChatGPT, Grok",
@@ -3429,10 +3429,10 @@
 "EndYR": null,
 "LocationIDs": [122],
 "TypeIDs": [11],
-"Capacity": "10"
-"SWCoID": [3588],
-"SWNote": "WITGO 5G platform"
-"Open": false,
+"Capacity": "10”,
+“SWCoID": [3588],
+"SWNote": "WITGO 5G platform”,
+“Open": false,
 "OrganisationIDs": [3588, 3540, 2961, 2958],
 "Status": "Operational since 2019, 360,000 trips and 7.1 million km by 2021; Zhengzhou 5G pilot ongoing with 17.4 km route",
 "Source": "Perplexity, Grok",
@@ -3447,10 +3447,10 @@
 "EndYR": null,
 "LocationIDs": [149],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3600],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3600],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3600],
 "Status": "Pilot trials ongoing",
 "Source": "ChatGPT",
@@ -3465,10 +3465,10 @@
 "EndYR": null,
 "LocationIDs": [224, 152, 203],
 "TypeIDs": [41],
-"Capacity": ""
-"SWCoID": [3603],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3603],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3603, 3102, 2511, 2883],
 "Status": "Operational since 2016, over 1 million deliveries by 2024",
 "Source": "Grok",
@@ -3483,10 +3483,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [31],
-"Capacity": ""
-"SWCoID": [3606],
-"SWNote": ""
-"Open": false,
+"Capacity": "“,
+“SWCoID": [3606],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3606],
 "Status": "Production facility opened June 2025, targeting 10,000 vehicles annually. Zoox (Amazon)",
 "Source": "Claude",
@@ -3501,10 +3501,10 @@
 "EndYR": null,
 "LocationIDs": [263],
 "TypeIDs": [31],
-"Capacity": "4"
-"SWCoID": [3606],
-"SWNote": ""
-"Open": false,
+"Capacity": "4”,
+“SWCoID": [3606],
+"SWNote": "“,
+“Open": false,
 "OrganisationIDs": [3606],
 "Status": "Active testing and limited deployment, Public road testing, passenger pilots since 2023. Zoox (Amazon)",
 "Source": "ChatGPT, Grok, Perplexity",
@@ -9756,4 +9756,3 @@
     }
   ]
   }
-
