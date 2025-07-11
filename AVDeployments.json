@@ -1994,7 +1994,7 @@
 "SWNote": "",
 "Open": false,
 "OrganisationIDs": [],
-"Status": "Conceptual, fictional depiction in Neuromancer (1984)",
+"Status": "Conceptual, fictional depiction in \"Neuromancer\" (1984)",
 "Source": "Grok",
 "Public Link": "https://archive.org/details/neuromancer00gibs"
     },
@@ -2254,7 +2254,7 @@
 "UID": 2841,
 "ProjectName": "Port Authority NY-NJ AV Shuttle",
 "Sentient": false,
-"Fictional": FALSE,
+"Fictional": false,
 "StartYR": null,
 "EndYR": null,
 "LocationIDs": [263],
