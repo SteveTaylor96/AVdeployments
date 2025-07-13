@@ -1387,6 +1387,24 @@
 "Public Link": "https://www.imdb.com/title/tt0064605/"
     },
     {
+"UID": 1871,
+"ProjectName": "Hero programmable cart",
+"Sentient": false,
+"Fictional": false,
+"StartYR": 60,
+"EndYR": null,
+"LocationIDs": [155],
+"TypeIDs": [41],
+"Capacity": "",
+"SWCoID": [],
+"SWNote": "",
+"Open": false,
+"OrganisationIDs": [],
+"Status": "Three-wheeled cart that could carry a group of automata to the front of a stage where they would perform for an audience",
+"Source": "Michael Talbot/LinkedIn",
+"Public Link": "https://bazaarmodel.net/phorum/read.php?1,4190"
+    },
+    {
 "UID": 1881,
 "ProjectName": "Honda Level 3 Deployment",
 "Sentient": false,
