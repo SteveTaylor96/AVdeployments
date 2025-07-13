@@ -1,4 +1,4 @@
-# AVdeployments
+# AV Deployments
 
 A curated database of global autonomous vehicle projects — real, historical, and fictional — inclduing some that use Autoware. This list has been compiled using news stories (primarily shared on LinkedIn), Wikipedia references, and assistance from several AIs including ChatGPT, Claude, Grok, and Perplexity. 
 
