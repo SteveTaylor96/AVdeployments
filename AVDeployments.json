@@ -1,7 +1,26 @@
 {
 "Deployments": [
+   {
+ "UID": 199,
+ "ProjectName": "Duckietown",
+ "Sentient": false,
+ "Fictional": false,
+ "StartYR": 2016,
+ "EndYR": null,
+ "LocationIDs": [263],
+ "TypeIDs": [41],
+ "UseCase": "Small scale autonomous vehicles",
+ "Capacity": null,
+ "SWCoID": [2955],
+ "SWNote": "https://github.com/duckietown",
+ "Open": true,
+ "OrganisationIDs": [2433, 2808],
+ "Status": "Active",
+ "Source": "LinkedIn / David Walmroth",
+ "Public Link": "https://duckietown.com/"
+   },
     { 
-"UID": "198", 
+"UID": 198, 
 "ProjectName": "NVIDIA JetRacer", 
 "Sentient": false, 
 "Fictional": false, 
