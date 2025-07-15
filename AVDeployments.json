@@ -5789,6 +5789,17 @@
 "Type": "Industry"
     },
     {
+"OrgID": 2446,
+"Name": "EVIE Autonomous",
+"Region": [260],
+"EstPhDsinAVLabs": null,
+"KeyLabs_Note": "Originally Westfield Technologies, acquired by Aim Technologies and rebranded as EVIE Autonomous in October 2022",
+"Website": "https://evieautonomous.com/",
+"AVSoftware": false,
+"AWFmember": false,
+"Type": "Industry"
+    },
+    {
 "OrgID": 2448,
 "Name": "eVersum",
 "Region": [],
