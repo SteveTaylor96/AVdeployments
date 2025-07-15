@@ -1,5 +1,24 @@
 {
 "Deployments": [
+    {
+"UID": 200,
+"ProjectName": "Donkeycar",
+"Sentient": false,
+"Fictional": false,
+"StartYR": 2016,
+"EndYR": null,
+"LocationIDs": [263],
+"TypeIDs": [41],
+"UseCase": "Small scale autonomous vehicle",
+"Capacity": null,
+"SWCoID": [2958],
+"SWNote": "https://github.com/autorope/donkeycar",
+"Open": true,
+"OrganisationIDs": [2958],
+"Status": null,
+"Source": "LinkedIn / David Walmroth",
+"Public Link": "https://docs.donkeycar.com/"
+   },
    {
  "UID": 199,
  "ProjectName": "Duckietown",
