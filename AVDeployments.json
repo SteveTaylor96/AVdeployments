@@ -1,5 +1,24 @@
 {
 "Deployments": [
+    { 
+"UID": "198", 
+"ProjectName": "NVIDIA JetRacer", 
+"Sentient": false, 
+"Fictional": false, 
+"StartYR": 2019, 
+"EndYR": null, 
+"LocationIDs": [ "263" ], 
+"TypeIDs": [ "41" ], 
+"UseCase": "Autonomous AI racing", 
+"Capacity": null, 
+"SWCoID": [ "2916" ], 
+"SWNote": "https://github.com/NVIDIA-AI-IOT/jetracer", 
+"Open": true, 
+"OrganisationIDs": [ "2916" ], 
+"Status": "Software JetPack 4.5.1 was updated in June 2021", 
+"Source": "LinkedIn / David Walmroth", 
+"Public Link": "https://developer.nvidia.com/embedded/community/jetson-projects/jetracer" 
+    }, 
     {
 "UID": 341,
 "ProjectName": "2getthere Shuttle",
