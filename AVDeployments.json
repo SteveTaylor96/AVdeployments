@@ -7879,6 +7879,17 @@
 "Type": "Academic"
     },
     {
+      "OrgID": "3016",
+      "Name": "Pronto",
+      "Region": [263],
+      "EstPhDsinAVLabs": null,
+      "KeyLabs_Note": "Founded in 2018 to deliver haulage solutions",
+      "Website": "https://pronto.ai/",
+      "AVSoftware": false,
+      "AWFmember": false,
+      "Type": "Industry"
+    },    
+    {
 "OrgID": 3018,
 "Name": "Purdue University",
 "Region": [263],
@@ -8237,6 +8248,17 @@
 "EstPhDsinAVLabs": "",
 "KeyLabs_Note": "SAE International is the global standards body for AV level",
 "Website": "",
+"AVSoftware": false,
+"AWFmember": false,
+"Type": "Industry"
+    },
+    {
+"OrgID": 3115,
+"Name": "SafeAI",
+"Region": [263],
+"EstPhDsinAVLabs": null,
+"KeyLabs_Note": "Autonomous mining and construction since 2017. Acquired by Pronto July 2025 https://pronto.ai/pronto-acquires-safeai-expanding-leadership-in-off-road-autonomy/",
+"Website": "https://www.safeai.ai/",
 "AVSoftware": false,
 "AWFmember": false,
 "Type": "Industry"
