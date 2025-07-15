@@ -4046,11 +4046,11 @@
     },
     {
 "VID": 41,
-"Location": "Special"
+"VehicleType": "Special"
     },
     {
 "VID": 44,
-"Location": "Rover"
+"VehicleType": "Rover"
     },
     {
 "VID": 46,
