@@ -4034,15 +4034,15 @@
 "Vehicles": [
     {
 "VID": 11,
-"Location": "Bus"
+"VehicleType": "Bus"
     },
     {
 "VID": 21,
-"Location": "Car"
+"VehicleType": "Car"
     },
     {
 "VID": 31,
-"Location": "Robotaxi"
+"VehicleType": "Robotaxi"
     },
     {
 "VID": 41,
@@ -4054,19 +4054,19 @@
     },
     {
 "VID": 46,
-"Location": "Tractor"
+"VehicleType": "Tractor"
     },
     {
 "VID": 48,
-"Location": "AGV"
+"VehicleType": "AGV"
     },
     {
 "VID": 51,
-"Location": "Truck"
+"VehicleType": "Truck"
     },
     {
 "VID": 61,
-"Location": "Van"
+"VehicleType": "Van"
     }
   ],
 "Organisations": [
